@@ -1,9 +1,9 @@
 <AssetPackage
-    Name="zbad-beijing daxing"
+    Name="billtt-zbad-beijing-daxing"
     Version="0.1">
     <ItemSettings>
         <ContentType>SCENERY</ContentType>
-            <Title></Title>
+            <Title>ZBAD Beijing Daxing Airport</Title>
                 <Manufacturer></Manufacturer>
                     <Creator>billtt</Creator>
                     </ItemSettings>
@@ -27,7 +27,7 @@
                                                         <Flags>
                                                             <FSXCompatibility>false</FSXCompatibility>
                                                             </Flags>
-                                                            <AssetDir>PackageSources\billtt-zbad-beijing daxing-modelLib\</AssetDir>
+                                                            <AssetDir>PackageSources\billtt-zbad-beijing-daxing-modelLib\</AssetDir>
                                                                 <OutputDir>scenery\global\scenery\</OutputDir>
                                                                 </AssetGroup>
                                                                 <AssetGroup
@@ -36,8 +36,8 @@
                                                                         <Flags>
                                                                             <FSXCompatibility>false</FSXCompatibility>
                                                                             </Flags>
-                                                                            <AssetDir>PackageDefinitions\zbad-beijing daxing\ContentInfo\</AssetDir>
-                                                                                <OutputDir>ContentInfo\zbad-beijing daxing\</OutputDir>
+                                                                            <AssetDir>PackageDefinitions\zbad-beijing-daxing\ContentInfo\</AssetDir>
+                                                                                <OutputDir>ContentInfo\zbad-beijing-daxing\</OutputDir>
                                                                                 </AssetGroup>
                                                                             </AssetGroups>
                                                                         </AssetPackage>

@@ -5,6 +5,6 @@
     <OutputDirectory>.</OutputDirectory>
         <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
             <Packages>
-                <Package>PackageDefinitions\zbad-beijing daxing.xml</Package>
+                <Package>PackageDefinitions\billtt-zbad-beijing-daxing.xml</Package>
                 </Packages>
             </Project>

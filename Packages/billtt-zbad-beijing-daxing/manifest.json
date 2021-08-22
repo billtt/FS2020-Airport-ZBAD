@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "ZBAD Beijing Daxing Airport",
+  "manufacturer": "",
+  "creator": "billtt",
+  "package_version": "0.1.522",
+  "minimum_game_version": "1.18.15",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

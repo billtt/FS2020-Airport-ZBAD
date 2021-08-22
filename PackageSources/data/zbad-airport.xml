@@ -25,7 +25,7 @@
         lon="116.410854"
         alt="83.0F"
         trafficScalar="0.7"
-        airportTestRadius="5000.0M"
+        airportTestRadius="6000.0M"
         altType="GEOID"
         isOnTIN="FALSE"
         onlyAddIfReplace="FALSE"
@@ -61,8 +61,8 @@
             deleteAllTerminalWaypoints="FALSE"
             />
         <Tower
-            lat="39.510169"
-            lon="116.410854"
+            lat="39.5101616268946"
+            lon="116.410864096241"
             alt="25.298F"
             overrideSize="NONE"
             overrideLevel="0">
