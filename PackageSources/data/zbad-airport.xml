@@ -70,7 +70,7 @@
         <Runway
             lat="39.5006312727223"
             lon="116.398650166866"
-            alt="82.999F"
+            alt="83.0F"
             altType="GEOID"
             surface="{2e0de83f-b79a-4435-905c-dcbbeac55c59}"
             transparent="FALSE"
@@ -169,7 +169,7 @@
         <Runway
             lat="39.4998473503607"
             lon="116.389763638324"
-            alt="82.999F"
+            alt="83.0F"
             altType="GEOID"
             surface="{2e0de83f-b79a-4435-905c-dcbbeac55c59}"
             transparent="FALSE"
@@ -268,7 +268,7 @@
         <Runway
             lat="39.4859817007949"
             lon="116.429200510952"
-            alt="82.999F"
+            alt="83.0F"
             altType="GEOID"
             surface="{2e0de83f-b79a-4435-905c-dcbbeac55c59}"
             transparent="FALSE"
@@ -367,7 +367,7 @@
         <Runway
             lat="39.512748068057"
             lon="116.452923558909"
-            alt="82.999F"
+            alt="83.0F"
             altType="GEOID"
             surface="{2e0de83f-b79a-4435-905c-dcbbeac55c59}"
             transparent="FALSE"
@@ -7843,8 +7843,8 @@
             parkingNumber="101"
             suffix="NONE">
             <SceneryObject
-                lat="39.5128274651954"
-                lon="116.404202012118"
+                lat="39.5128749233209"
+                lon="116.404122290618"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -7880,8 +7880,8 @@
             parkingNumber="102"
             suffix="NONE">
             <SceneryObject
-                lat="39.5122486864659"
-                lon="116.403802442005"
+                lat="39.5122719105206"
+                lon="116.403690050784"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -7917,13 +7917,13 @@
             parkingNumber="104"
             suffix="NONE">
             <SceneryObject
-                lat="39.5116537763964"
-                lon="116.403592305212"
+                lat="39.5116911409514"
+                lon="116.403409379458"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="324.522666592314"
+                heading="297.784280673002"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -7939,7 +7939,7 @@
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="351.634474012567"
+                heading="357.426644174717"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -7954,8 +7954,8 @@
             parkingNumber="105"
             suffix="NONE">
             <SceneryObject
-                lat="39.5110893893894"
-                lon="116.404056957115"
+                lat="39.5110924186139"
+                lon="116.403864882426"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -7976,7 +7976,7 @@
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="288.5406379856"
+                heading="303.608294084783"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -8141,18 +8141,6 @@
                 <Vertex
                     lat="39.4963375899304"
                     lon="116.432727366951"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5048149237797"
-                    lon="116.431188607683"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5047773021897"
-                    lon="116.431188596674"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5050281113254"
-                    lon="116.431204894827"
                     spline="FALSE"/>
             </Apron>
         </Aprons>
