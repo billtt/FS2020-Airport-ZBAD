@@ -1,0 +1,10 @@
+<Project
+    Version="2"
+    Name="ZBAD-Daxing-Airport"
+    FolderName="Packages">
+    <OutputDirectory>.</OutputDirectory>
+        <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+            <Packages>
+                <Package>PackageDefinitions\zbad-beijing daxing.xml</Package>
+                </Packages>
+            </Project>

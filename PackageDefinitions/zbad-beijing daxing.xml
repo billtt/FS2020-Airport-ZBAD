@@ -1,0 +1,43 @@
+<AssetPackage
+    Name="zbad-beijing daxing"
+    Version="0.1">
+    <ItemSettings>
+        <ContentType>SCENERY</ContentType>
+            <Title></Title>
+                <Manufacturer></Manufacturer>
+                    <Creator>billtt</Creator>
+                    </ItemSettings>
+                    <Flags>
+                        <VisibleInStore>false</VisibleInStore>
+                            <CanBeReferenced>false</CanBeReferenced>
+                            </Flags>
+                            <AssetGroups>
+                                <AssetGroup
+                                    Name="zbad-airport">
+                                    <Type>BGL</Type>
+                                        <Flags>
+                                            <FSXCompatibility>false</FSXCompatibility>
+                                            </Flags>
+                                            <AssetDir>PackageSources\data\</AssetDir>
+                                                <OutputDir>scenery\world\scenery</OutputDir>
+                                                </AssetGroup>
+                                                <AssetGroup
+                                                    Name="zbad-models">
+                                                    <Type>ArtProj</Type>
+                                                        <Flags>
+                                                            <FSXCompatibility>false</FSXCompatibility>
+                                                            </Flags>
+                                                            <AssetDir>PackageSources\billtt-zbad-beijing daxing-modelLib\</AssetDir>
+                                                                <OutputDir>scenery\global\scenery\</OutputDir>
+                                                                </AssetGroup>
+                                                                <AssetGroup
+                                                                    Name="ZBAD-contentInfo">
+                                                                    <Type>ContentInfo</Type>
+                                                                        <Flags>
+                                                                            <FSXCompatibility>false</FSXCompatibility>
+                                                                            </Flags>
+                                                                            <AssetDir>PackageDefinitions\zbad-beijing daxing\ContentInfo\</AssetDir>
+                                                                                <OutputDir>ContentInfo\zbad-beijing daxing\</OutputDir>
+                                                                                </AssetGroup>
+                                                                            </AssetGroups>
+                                                                        </AssetPackage>
