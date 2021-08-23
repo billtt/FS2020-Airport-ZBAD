@@ -23,7 +23,7 @@
                                                 </AssetGroup>
                                                 <AssetGroup
                                                     Name="zbad-models">
-                                                    <Type>ArtProj</Type>
+                                                    <Type>ModelLib</Type>
                                                         <Flags>
                                                             <FSXCompatibility>false</FSXCompatibility>
                                                             </Flags>
