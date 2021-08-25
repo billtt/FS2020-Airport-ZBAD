@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Created by Airport Design Editor (ADE) on 2021/8/25 -->
+<!-- Created by Airport Design Editor (ADE) on 2021/8/26 -->
 <FSData
     version="9.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -16,6 +16,22 @@
         deleteAllArrivals="FALSE"
         deleteAllFrequencies="FALSE"
         />
+    <SceneryObject
+        lat="39.5155955039175"
+        lon="116.416558313039"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{d68f2914-2698-425b-9435-5bf7080c183e}"
+            scale="1.00"
+            />
+    </SceneryObject>
     <Airport
         country="China"
         state="Beijing"
@@ -61,8 +77,8 @@
             deleteAllTerminalWaypoints="FALSE"
             />
         <Tower
-            lat="39.5101616268946"
-            lon="116.410864096241"
+            lat="39.5029559137733"
+            lon="116.406839113821"
             alt="25.298F"
             overrideSize="NONE"
             overrideLevel="0">
@@ -336,7 +352,7 @@
                 magvar="0"
                 ident="IXR"
                 width="5.19999980926514"
-                name="CAT II ILS/DME 35L"
+                name="ILS/DME 35L"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.485402876"
@@ -460,7 +476,7 @@
                 magvar="0"
                 ident="IDN"
                 width="5.19999980926514"
-                name="CAT III ILS/DME 01L"
+                name="ILS/DME 01L"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.472893344"
@@ -49046,8 +49062,8 @@
                     lon="116.416084945196"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5157512300189"
-                    lon="116.417542067459"
+                    lat="39.515781382213"
+                    lon="116.417398979329"
                     spline="FALSE"/>
                 <Vertex
                     lat="39.5144294490015"
@@ -50028,509 +50044,985 @@
                     lat="39.5171807900266"
                     lon="116.387726251635"/>
             </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.51636497381"
+                    lon="116.387189799105"/>
+                <Vertex
+                    lat="39.5165183875144"
+                    lon="116.386886440296"/>
+                <Vertex
+                    lat="39.5165183875144"
+                    lon="116.386180560608"/>
+                <Vertex
+                    lat="39.516424634512"
+                    lon="116.385237580992"/>
+                <Vertex
+                    lat="39.5163138359086"
+                    lon="116.384862626236"/>
+                <Vertex
+                    lat="39.5160709311513"
+                    lon="116.384675218549"/>
+                <Vertex
+                    lat="39.5157598417931"
+                    lon="116.384647762506"/>
+                <Vertex
+                    lat="39.5141447375955"
+                    lon="116.384841377408"/>
+                <Vertex
+                    lat="39.5138166026363"
+                    lon="116.384946275238"/>
+                <Vertex
+                    lat="39.513556652278"
+                    lon="116.385133863967"/>
+                <Vertex
+                    lat="39.5134373308741"
+                    lon="116.385492348795"/>
+                <Vertex
+                    lat="39.5136035293285"
+                    lon="116.387626383493"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5163947261717"
+                    lon="116.387857140079"/>
+                <Vertex
+                    lat="39.516633370078"
+                    lon="116.388143827926"/>
+                <Vertex
+                    lat="39.5167399067319"
+                    lon="116.388629085685"/>
+                <Vertex
+                    lat="39.5168847976358"
+                    lon="116.390294485001"/>
+                <Vertex
+                    lat="39.5168336597343"
+                    lon="116.390581264972"/>
+                <Vertex
+                    lat="39.5167185991815"
+                    lon="116.390625415271"/>
+                <Vertex
+                    lat="39.5163563730203"
+                    lon="116.39069721076"/>
+                <Vertex
+                    lat="39.5142213670076"
+                    lon="116.390973556937"/>
+                <Vertex
+                    lat="39.5139315851999"
+                    lon="116.390962609705"/>
+                <Vertex
+                    lat="39.5138676625485"
+                    lon="116.390742050621"/>
+                <Vertex
+                    lat="39.5136588511901"
+                    lon="116.388199942371"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5171361120542"
+                    lon="116.395963701826"/>
+                <Vertex
+                    lat="39.5173150941601"
+                    lon="116.395268803527"/>
+                <Vertex
+                    lat="39.5173364017106"
+                    lon="116.394717323479"/>
+                <Vertex
+                    lat="39.5169912211504"
+                    lon="116.391518860736"/>
+                <Vertex
+                    lat="39.516897468148"
+                    lon="116.391381021018"/>
+                <Vertex
+                    lat="39.5167483163931"
+                    lon="116.391347973856"/>
+                <Vertex
+                    lat="39.5163903510829"
+                    lon="116.391364617355"/>
+                <Vertex
+                    lat="39.5153761158543"
+                    lon="116.391491842342"/>
+                <Vertex
+                    lat="39.5132709368974"
+                    lon="116.391779210473"/>
+                <Vertex
+                    lat="39.5131984925439"
+                    lon="116.391856432132"/>
+                <Vertex
+                    lat="39.5131388318419"
+                    lon="116.392054969139"/>
+                <Vertex
+                    lat="39.513147353544"
+                    lon="116.392198340221"/>
+                <Vertex
+                    lat="39.5135394111546"
+                    lon="116.396488479095"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5131685973849"
+                    lon="116.388575598262"/>
+                <Vertex
+                    lat="39.5133561033897"
+                    lon="116.390963289026"/>
+                <Vertex
+                    lat="39.5132580873394"
+                    lon="116.391084636287"/>
+                <Vertex
+                    lat="39.5131728571375"
+                    lon="116.391073630502"/>
+                <Vertex
+                    lat="39.5130961508345"
+                    lon="116.391029537923"/>
+                <Vertex
+                    lat="39.5130535357336"
+                    lon="116.39087514687"/>
+                <Vertex
+                    lat="39.5128404624257"
+                    lon="116.388685991971"/>
+                <Vertex
+                    lat="39.5128702916783"
+                    lon="116.388515034661"/>
+                <Vertex
+                    lat="39.512989615279"
+                    lon="116.388492939117"/>
+                <Vertex
+                    lat="39.5130748432841"
+                    lon="116.388487396673"/>
+                <Vertex
+                    lat="39.5131728571375"
+                    lon="116.388570081877"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5129425778563"
+                    lon="116.387693668593"/>
+                <Vertex
+                    lat="39.5130405917097"
+                    lon="116.387434458939"/>
+                <Vertex
+                    lat="39.5129042247048"
+                    lon="116.385603724628"/>
+                <Vertex
+                    lat="39.5128317781544"
+                    lon="116.385377659026"/>
+                <Vertex
+                    lat="39.5126527960486"
+                    lon="116.385173693221"/>
+                <Vertex
+                    lat="39.5123885837408"
+                    lon="116.385069018074"/>
+                <Vertex
+                    lat="39.512132895332"
+                    lon="116.385080142843"/>
+                <Vertex
+                    lat="39.5048116482299"
+                    lon="116.385992778199"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.504787963654"
+                    lon="116.385987710055"/>
+                <Vertex
+                    lat="39.5044811384422"
+                    lon="116.382822938754"/>
+                <Vertex
+                    lat="39.5095308257918"
+                    lon="116.382302767194"/>
+                <Vertex
+                    lat="39.5095094062004"
+                    lon="116.381806606789"/>
+                <Vertex
+                    lat="39.5108986523401"
+                    lon="116.381673684071"/>
+                <Vertex
+                    lat="39.5108219460372"
+                    lon="116.380262072665"/>
+                <Vertex
+                    lat="39.5123048254493"
+                    lon="116.380156729475"/>
+                <Vertex
+                    lat="39.5123687481007"
+                    lon="116.381777924684"/>
+                <Vertex
+                    lat="39.5138048701924"
+                    lon="116.38158983117"/>
+                <Vertex
+                    lat="39.5136854817837"
+                    lon="116.379753653659"/>
+                <Vertex
+                    lat="39.5176997296077"
+                    lon="116.379255571854"/>
+                <Vertex
+                    lat="39.517836097711"
+                    lon="116.380981641899"/>
+                <Vertex
+                    lat="39.5200946167768"
+                    lon="116.380743586388"/>
+                <Vertex
+                    lat="39.5202863836327"
+                    lon="116.382789563136"/>
+                <Vertex
+                    lat="39.519336072154"
+                    lon="116.382861643038"/>
+                <Vertex
+                    lat="39.5193744253055"
+                    lon="116.383451721924"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5121622830114"
+                    lon="116.38840453428"/>
+                <Vertex
+                    lat="39.5123089841453"
+                    lon="116.388665503233"/>
+                <Vertex
+                    lat="39.5125143661722"
+                    lon="116.391047820887"/>
+                <Vertex
+                    lat="39.512419010545"
+                    lon="116.391180730163"/>
+                <Vertex
+                    lat="39.5112674054353"
+                    lon="116.391299699826"/>
+                <Vertex
+                    lat="39.5110289032279"
+                    lon="116.391271402434"/>
+                <Vertex
+                    lat="39.5106401453328"
+                    lon="116.391143380608"/>
+                <Vertex
+                    lat="39.5102513874377"
+                    lon="116.390953665664"/>
+                <Vertex
+                    lat="39.5098993064737"
+                    lon="116.390735467317"/>
+                <Vertex
+                    lat="39.5095324448932"
+                    lon="116.390493556482"/>
+                <Vertex
+                    lat="39.5093270650632"
+                    lon="116.390370232048"/>
+                <Vertex
+                    lat="39.5091510223844"
+                    lon="116.390346556523"/>
+                <Vertex
+                    lat="39.508901630237"
+                    lon="116.390280192447"/>
+                <Vertex
+                    lat="39.5082487281374"
+                    lon="116.389910240504"/>
+                <Vertex
+                    lat="39.5069209814892"
+                    lon="116.389108675563"/>
+                <Vertex
+                    lat="39.5069209814892"
+                    lon="116.389113419758"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5125468975886"
+                    lon="116.391940366777"/>
+                <Vertex
+                    lat="39.5126129138678"
+                    lon="116.392063739256"/>
+                <Vertex
+                    lat="39.5126055784816"
+                    lon="116.39216814766"/>
+                <Vertex
+                    lat="39.5125285602215"
+                    lon="116.392248848945"/>
+                <Vertex
+                    lat="39.5124075318409"
+                    lon="116.392301082996"/>
+                <Vertex
+                    lat="39.5110688842683"
+                    lon="116.392434319974"/>
+                <Vertex
+                    lat="39.5109551912739"
+                    lon="116.39241536939"/>
+                <Vertex
+                    lat="39.5108891771916"
+                    lon="116.392358439101"/>
+                <Vertex
+                    lat="39.5108708376276"
+                    lon="116.392187597763"/>
+                <Vertex
+                    lat="39.510867171033"
+                    lon="116.392059466932"/>
+                <Vertex
+                    lat="39.5109551912739"
+                    lon="116.391978767221"/>
+                <Vertex
+                    lat="39.5110798884461"
+                    lon="116.391959749742"/>
+                <Vertex
+                    lat="39.512308509619"
+                    lon="116.391873990735"/>
+                <Vertex
+                    lat="39.5124662127339"
+                    lon="116.391883439642"/>
+                <Vertex
+                    lat="39.5125432309939"
+                    lon="116.391930875774"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5102801973373"
+                    lon="116.391746499373"/>
+                <Vertex
+                    lat="39.5103278762494"
+                    lon="116.391926820002"/>
+                <Vertex
+                    lat="39.5103352116356"
+                    lon="116.392154607418"/>
+                <Vertex
+                    lat="39.5102691953564"
+                    lon="116.39225428367"/>
+                <Vertex
+                    lat="39.5101591689568"
+                    lon="116.392268549216"/>
+                <Vertex
+                    lat="39.5087288345485"
+                    lon="116.391500158884"/>
+                <Vertex
+                    lat="39.5085601272559"
+                    lon="116.391296146658"/>
+                <Vertex
+                    lat="39.5086078061679"
+                    lon="116.391158514125"/>
+                <Vertex
+                    lat="39.5087361699347"
+                    lon="116.391054077134"/>
+                <Vertex
+                    lat="39.5088902064549"
+                    lon="116.391025558734"/>
+                <Vertex
+                    lat="39.5091249278298"
+                    lon="116.391016000218"/>
+                <Vertex
+                    lat="39.5102875327236"
+                    lon="116.391741750088"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5053984286"
+                    lon="116.38931847473"/>
+                <Vertex
+                    lat="39.50602190787"
+                    lon="116.389398951684"/>
+                <Vertex
+                    lat="39.5063739910309"
+                    lon="116.389531713509"/>
+                <Vertex
+                    lat="39.5069754641422"
+                    lon="116.38988743199"/>
+                <Vertex
+                    lat="39.5074632464561"
+                    lon="116.390186248191"/>
+                <Vertex
+                    lat="39.5078373335787"
+                    lon="116.390428156609"/>
+                <Vertex
+                    lat="39.5079546953646"
+                    lon="116.390466084763"/>
+                <Vertex
+                    lat="39.5079143518388"
+                    lon="116.390532533339"/>
+                <Vertex
+                    lat="39.5069314540217"
+                    lon="116.390665692382"/>
+                <Vertex
+                    lat="39.5060329098509"
+                    lon="116.390703915034"/>
+                <Vertex
+                    lat="39.5056770656295"
+                    lon="116.390613860223"/>
+                <Vertex
+                    lat="39.5038579733261"
+                    lon="116.389546723122"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5033370862099"
+                    lon="116.390045196601"/>
+                <Vertex
+                    lat="39.5046683983963"
+                    lon="116.390818272852"/>
+                <Vertex
+                    lat="39.5046830691687"
+                    lon="116.390917919096"/>
+                <Vertex
+                    lat="39.5022881743105"
+                    lon="116.391274485128"/>
+                <Vertex
+                    lat="39.5022148226451"
+                    lon="116.39114638993"/>
+                <Vertex
+                    lat="39.5033334196152"
+                    lon="116.390049941649"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5027575379726"
+                    lon="116.389661028063"/>
+                <Vertex
+                    lat="39.5020240323029"
+                    lon="116.390415718905"/>
+                <Vertex
+                    lat="39.5018076482951"
+                    lon="116.390496447819"/>
+                <Vertex
+                    lat="39.5014995752548"
+                    lon="116.39046806942"/>
+                <Vertex
+                    lat="39.5007330636424"
+                    lon="116.389936855259"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5002084703876"
+                    lon="116.390421130114"/>
+                <Vertex
+                    lat="39.5014847704726"
+                    lon="116.391236897297"/>
+                <Vertex
+                    lat="39.501422422985"
+                    lon="116.391369775959"/>
+                <Vertex
+                    lat="39.4991962332225"
+                    lon="116.391674074348"/>
+                <Vertex
+                    lat="39.4990165239489"
+                    lon="116.391536520973"/>
+                <Vertex
+                    lat="39.5002048037929"
+                    lon="116.390425874929"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.499577477784"
+                    lon="116.390098681891"/>
+                <Vertex
+                    lat="39.4989173215828"
+                    lon="116.390753670257"/>
+                <Vertex
+                    lat="39.4986092507393"
+                    lon="116.390934062679"/>
+                <Vertex
+                    lat="39.498242496806"
+                    lon="116.390877230337"/>
+                <Vertex
+                    lat="39.4976887004098"
+                    lon="116.390554744647"/>
+                <Vertex
+                    lat="39.4974356416678"
+                    lon="116.390374518256"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4969770207546"
+                    lon="116.390910937898"/>
+                <Vertex
+                    lat="39.4982826601876"
+                    lon="116.391669733465"/>
+                <Vertex
+                    lat="39.4982276480862"
+                    lon="116.391807350049"/>
+                <Vertex
+                    lat="39.4960674746029"
+                    lon="116.392140066167"/>
+                <Vertex
+                    lat="39.4958767633484"
+                    lon="116.392073692275"/>
+                <Vertex
+                    lat="39.4959207734689"
+                    lon="116.391893384024"/>
+                <Vertex
+                    lat="39.4969770207546"
+                    lon="116.390901450865"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4963899481993"
+                    lon="116.390541041268"/>
+                <Vertex
+                    lat="39.4952053393437"
+                    lon="116.391760749871"/>
+                <Vertex
+                    lat="39.494746894181"
+                    lon="116.392130951988"/>
+                <Vertex
+                    lat="39.4942407766969"
+                    lon="116.392349335465"/>
+                <Vertex
+                    lat="39.4937198785962"
+                    lon="116.392449154345"/>
+                <Vertex
+                    lat="39.4930450538195"
+                    lon="116.392473054919"/>
+                <Vertex
+                    lat="39.4929093524696"
+                    lon="116.392349735322"/>
+                <Vertex
+                    lat="39.4930377162364"
+                    lon="116.392102989753"/>
+                <Vertex
+                    lat="39.4941416446309"
+                    lon="116.391120574039"/>
+                <Vertex
+                    lat="39.4944937255949"
+                    lon="116.390878500874"/>
+                <Vertex
+                    lat="39.4948678149144"
+                    lon="116.3907218223"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4934579927856"
+                    lon="116.39091716814"/>
+                <Vertex
+                    lat="39.4900677218252"
+                    lon="116.393865628793"/>
+                <Vertex
+                    lat="39.4896083407911"
+                    lon="116.394115327568"/>
+                <Vertex
+                    lat="39.4882623380604"
+                    lon="116.394430599794"/>
+                <Vertex
+                    lat="39.4879913044366"
+                    lon="116.39440095317"/>
+                <Vertex
+                    lat="39.4878948305968"
+                    lon="116.394014724024"/>
+                <Vertex
+                    lat="39.4877799864367"
+                    lon="116.391661594009"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4924190701049"
+                    lon="116.392908660325"/>
+                <Vertex
+                    lat="39.4924144742295"
+                    lon="116.392991862276"/>
+                <Vertex
+                    lat="39.4920653414801"
+                    lon="116.393348511894"/>
+                <Vertex
+                    lat="39.4915416445528"
+                    lon="116.393835940156"/>
+                <Vertex
+                    lat="39.4914773330534"
+                    lon="116.393723046969"/>
+                <Vertex
+                    lat="39.4915232698387"
+                    lon="116.393550696668"/>
+                <Vertex
+                    lat="39.4922169394622"
+                    lon="116.392861172588"/>
+                <Vertex
+                    lat="39.4924236615866"
+                    lon="116.392896774127"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4908893158393"
+                    lon="116.394055973397"/>
+                <Vertex
+                    lat="39.4909444443754"
+                    lon="116.394121329101"/>
+                <Vertex
+                    lat="39.4909765979282"
+                    lon="116.394305540914"/>
+                <Vertex
+                    lat="39.4902783368231"
+                    lon="116.394917789125"/>
+                <Vertex
+                    lat="39.4901956462158"
+                    lon="116.394917808077"/>
+                <Vertex
+                    lat="39.4901451135551"
+                    lon="116.394787085959"/>
+                <Vertex
+                    lat="39.4902094294483"
+                    lon="116.394585023784"/>
+                <Vertex
+                    lat="39.4908617537681"
+                    lon="116.394038152937"/>
+                <Vertex
+                    lat="39.4908571578927"
+                    lon="116.394038154049"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4894881845724"
+                    lon="116.394977452459"/>
+                <Vertex
+                    lat="39.4895846540184"
+                    lon="116.395102223656"/>
+                <Vertex
+                    lat="39.4896214078403"
+                    lon="116.395292373558"/>
+                <Vertex
+                    lat="39.4895387172331"
+                    lon="116.395464723286"/>
+                <Vertex
+                    lat="39.4882386600751"
+                    lon="116.395613570422"/>
+                <Vertex
+                    lat="39.4882065021285"
+                    lon="116.39561357747"/>
+                <Vertex
+                    lat="39.4879997800041"
+                    lon="116.395459124598"/>
+                <Vertex
+                    lat="39.4881559694678"
+                    lon="116.39518574013"/>
+                <Vertex
+                    lat="39.4894146857159"
+                    lon="116.394923988998"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4872278838359"
+                    lon="116.391745557606"/>
+                <Vertex
+                    lat="39.4873565112285"
+                    lon="116.394122436891"/>
+                <Vertex
+                    lat="39.4873105744432"
+                    lon="116.394360139251"/>
+                <Vertex
+                    lat="39.4872049132464"
+                    lon="116.394502779448"/>
+                <Vertex
+                    lat="39.4870762858539"
+                    lon="116.394484980704"/>
+                <Vertex
+                    lat="39.4870073784791"
+                    lon="116.394158173159"/>
+                <Vertex
+                    lat="39.4867914689976"
+                    lon="116.391816984673"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4862861511782"
+                    lon="116.391858748142"/>
+                <Vertex
+                    lat="39.4865204353738"
+                    lon="116.394396009936"/>
+                <Vertex
+                    lat="39.4864882774272"
+                    lon="116.394675300037"/>
+                <Vertex
+                    lat="39.486212647928"
+                    lon="116.394758554665"/>
+                <Vertex
+                    lat="39.4840948852357"
+                    lon="116.395085852049"/>
+                <Vertex
+                    lat="39.4836722492361"
+                    lon="116.395097831391"/>
+                <Vertex
+                    lat="39.4834379650405"
+                    lon="116.394901801412"/>
+                <Vertex
+                    lat="39.4831990849695"
+                    lon="116.392495375077"/>
+                <Vertex
+                    lat="39.4834058070939"
+                    lon="116.392257642547"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5129216877132"
+                    lon="116.396578296634"/>
+                <Vertex
+                    lat="39.5129808497232"
+                    lon="116.396320779279"/>
+                <Vertex
+                    lat="39.5127173118579"
+                    lon="116.393230786602"/>
+                <Vertex
+                    lat="39.5126205018954"
+                    lon="116.393035944908"/>
+                <Vertex
+                    lat="39.5123946119827"
+                    lon="116.393008163679"/>
+                <Vertex
+                    lat="39.5112974368009"
+                    lon="116.393091958829"/>
+                <Vertex
+                    lat="39.5110876829805"
+                    lon="116.39314768689"/>
+                <Vertex
+                    lat="39.5109424669382"
+                    lon="116.393335626508"/>
+                <Vertex
+                    lat="39.511179112781"
+                    lon="116.396794396616"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5105444030545"
+                    lon="116.396891972325"/>
+                <Vertex
+                    lat="39.5106143209946"
+                    lon="116.396543990438"/>
+                <Vertex
+                    lat="39.5104045671742"
+                    lon="116.393447129811"/>
+                <Vertex
+                    lat="39.5103131351767"
+                    lon="116.393140942463"/>
+                <Vertex
+                    lat="39.5090707439526"
+                    lon="116.392507973384"/>
+                <Vertex
+                    lat="39.5089093962119"
+                    lon="116.392654157868"/>
+                <Vertex
+                    lat="39.508850234202"
+                    lon="116.392904704528"/>
+                <Vertex
+                    lat="39.5091299059625"
+                    lon="116.397094074618"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.5084575636615"
+                    lon="116.397170889752"/>
+                <Vertex
+                    lat="39.5085920215767"
+                    lon="116.396836822964"/>
+                <Vertex
+                    lat="39.5083392396417"
+                    lon="116.3930163146"/>
+                <Vertex
+                    lat="39.5082209178187"
+                    lon="116.392369146752"/>
+                <Vertex
+                    lat="39.5080004058712"
+                    lon="116.391791601331"/>
+                <Vertex
+                    lat="39.5077207341106"
+                    lon="116.391408928805"/>
+                <Vertex
+                    lat="39.5073872783052"
+                    lon="116.391290717753"/>
+                <Vertex
+                    lat="39.5069785265946"
+                    lon="116.391304749907"/>
+                <Vertex
+                    lat="39.4935430340558"
+                    lon="116.393131773394"/>
+                <Vertex
+                    lat="39.4931504162404"
+                    lon="116.393229279312"/>
+                <Vertex
+                    lat="39.4927147747043"
+                    lon="116.393591182202"/>
+                <Vertex
+                    lat="39.4919887010836"
+                    lon="116.394301025756"/>
+                <Vertex
+                    lat="39.4917520574376"
+                    lon="116.394669829394"/>
+                <Vertex
+                    lat="39.4916283554526"
+                    lon="116.39531690193"/>
+                <Vertex
+                    lat="39.4919833231185"
+                    lon="116.399261800615"/>
+                <Vertex
+                    lat="39.4921823210087"
+                    lon="116.399428745321"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.4914884580597"
+                    lon="116.399533242571"/>
+                <Vertex
+                    lat="39.4911442463241"
+                    lon="116.395866742951"/>
+                <Vertex
+                    lat="39.4910581900949"
+                    lon="116.395449319275"/>
+                <Vertex
+                    lat="39.4908699481349"
+                    lon="116.39531021395"/>
+                <Vertex
+                    lat="39.4906655722795"
+                    lon="116.395379831531"/>
+                <Vertex
+                    lat="39.4904988465737"
+                    lon="116.395651204328"/>
+                <Vertex
+                    lat="39.4903912784841"
+                    lon="116.396131286492"/>
+                <Vertex
+                    lat="39.4903643886585"
+                    lon="116.396764407573"/>
+                <Vertex
+                    lat="39.4906440604191"
+                    lon="116.399491632959"/>
+                <Vertex
+                    lat="39.490826924414"
+                    lon="116.399623795941"/>
+            </EdgeLights>
+            <EdgeLights
+                preset=""
+                snapToVertices="FALSE"
+                heading="0"
+                spacing="60.96">
+                <Vertex
+                    lat="39.490138386705"
+                    lon="116.399721405389"/>
+                <Vertex
+                    lat="39.4898533325855"
+                    lon="116.396855054988"/>
+                <Vertex
+                    lat="39.4897565248199"
+                    lon="116.396493297421"/>
+                <Vertex
+                    lat="39.4895521489646"
+                    lon="116.396242878016"/>
+                <Vertex
+                    lat="39.4891918033336"
+                    lon="116.396194253594"/>
+                <Vertex
+                    lat="39.4879547878777"
+                    lon="116.396305826213"/>
+                <Vertex
+                    lat="39.4873470382769"
+                    lon="116.39647292248"/>
+                <Vertex
+                    lat="39.487287876267"
+                    lon="116.396653816823"/>
+                <Vertex
+                    lat="39.487363176566"
+                    lon="116.397690399242"/>
+                <Vertex
+                    lat="39.4875836863166"
+                    lon="116.399874870893"/>
+                <Vertex
+                    lat="39.487793440137"
+                    lon="116.40004876458"/>
+            </EdgeLights>
         </ApronEdgeLights>
-        <Approach
-            type="ILS"
-            runway="01"
-            designator="LEFT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF01L"
-            altitude="2100.0F"
-            heading="352.823279"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF01L"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF01L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="352.8233"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW01L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="352.8233"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH01L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="352.8233"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH01L"
-                    turnDirection="R"
-                    magneticCourse="352.8233"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="17"
-            designator="LEFT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF17L"
-            altitude="2100.0F"
-            heading="173.894992"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF17L"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF17L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="173.895"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW17L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="173.895"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH17L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="173.895"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH17L"
-                    turnDirection="R"
-                    magneticCourse="173.895"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="17"
-            designator="RIGHT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF17R"
-            altitude="2100.0F"
-            heading="174.11194"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF17R"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF17R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="174.1119"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW17R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="174.1119"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH17R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="174.1119"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH17R"
-                    turnDirection="R"
-                    magneticCourse="174.1119"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="19"
-            designator="RIGHT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF19R"
-            altitude="2100.0F"
-            heading="172.823279"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF19R"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF19R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="172.8233"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW19R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="172.8233"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH19R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="172.8233"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH19R"
-                    turnDirection="R"
-                    magneticCourse="172.8233"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="29"
-            designator="RIGHT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF29R"
-            altitude="2100.0F"
-            heading="282.890504"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF29R"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF29R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="282.8905"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW29R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="282.8905"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH29R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="282.8905"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH29R"
-                    turnDirection="R"
-                    magneticCourse="282.8905"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="35"
-            designator="LEFT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF35L"
-            altitude="2100.0F"
-            heading="354.11194"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF35L"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF35L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="354.1119"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW35L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="354.1119"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH35L"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="354.1119"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH35L"
-                    turnDirection="R"
-                    magneticCourse="354.1119"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
-        <Approach
-            type="ILS"
-            runway="35"
-            designator="RIGHT"
-            suffix="0"
-            gpsOverlay="FALSE"
-            fixType="TERMINAL_WAYPOINT"
-            fixRegion=""
-            fixIdent="FF35R"
-            altitude="2100.0F"
-            heading="353.894992"
-            missedAltitude="3100.0F">
-            <ApproachLegs>
-                <Leg
-                    type="IF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="IF35R"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="FF35R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="353.895"
-                    distance="4.0N"
-                    altitudeDescriptor="+"
-                    altitude1="2100.0F"
-                    />
-                <Leg
-                    type="CF"
-                    fixType="RUNWAY"
-                    fixRegion=""
-                    fixIdent="RW35R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="353.895"
-                    distance="6.0N"
-                    altitudeDescriptor="A"
-                    altitude1="133.0F"
-                    />
-            </ApproachLegs>
-            <MissedApproachLegs>
-                <Leg
-                    type="CF"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH35R"
-                    flyOver="FALSE"
-                    theta="0"
-                    rho="0.0N"
-                    magneticCourse="353.895"
-                    distance="10.0N"
-                    />
-                <Leg
-                    type="HM"
-                    fixType="TERMINAL_WAYPOINT"
-                    fixRegion=""
-                    fixIdent="HH35R"
-                    turnDirection="R"
-                    magneticCourse="353.895"
-                    time="1"
-                    />
-            </MissedApproachLegs>
-        </Approach>
         <Waypoint
             lat="39.3048801705913"
             lon="116.458670128522"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF01L">
         </Waypoint>
         <Waypoint
@@ -50538,6 +51030,7 @@
             lon="116.447924343382"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF01L">
         </Waypoint>
         <Waypoint
@@ -50545,6 +51038,7 @@
             lon="116.399577001081"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH01L">
         </Waypoint>
         <Waypoint
@@ -50552,6 +51046,7 @@
             lon="116.373239627275"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF17L">
         </Waypoint>
         <Waypoint
@@ -50559,6 +51054,7 @@
             lon="116.382467970363"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF17L">
         </Waypoint>
         <Waypoint
@@ -50566,6 +51062,7 @@
             lon="116.423927368136"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH17L">
         </Waypoint>
         <Waypoint
@@ -50573,6 +51070,7 @@
             lon="116.365253103491"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF17R">
         </Waypoint>
         <Waypoint
@@ -50580,6 +51078,7 @@
             lon="116.374154597516"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF17R">
         </Waypoint>
         <Waypoint
@@ -50587,6 +51086,7 @@
             lon="116.414145510032"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH17R">
         </Waypoint>
         <Waypoint
@@ -50594,6 +51094,7 @@
             lon="116.399577001081"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF19R">
         </Waypoint>
         <Waypoint
@@ -50601,6 +51102,7 @@
             lon="116.410414672878"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF19R">
         </Waypoint>
         <Waypoint
@@ -50608,6 +51110,7 @@
             lon="116.458670128522"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH19R">
         </Waypoint>
         <Waypoint
@@ -50615,6 +51118,7 @@
             lon="116.685122458599"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF29R">
         </Waypoint>
         <Waypoint
@@ -50622,6 +51126,7 @@
             lon="116.600968360703"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF29R">
         </Waypoint>
         <Waypoint
@@ -50629,6 +51134,7 @@
             lon="116.220450294383"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH29R">
         </Waypoint>
         <Waypoint
@@ -50636,6 +51142,7 @@
             lon="116.414145510032"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF35L">
         </Waypoint>
         <Waypoint
@@ -50643,6 +51150,7 @@
             lon="116.405320399841"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF35L">
         </Waypoint>
         <Waypoint
@@ -50650,6 +51158,7 @@
             lon="116.365253103491"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH35L">
         </Waypoint>
         <Waypoint
@@ -50657,6 +51166,7 @@
             lon="116.423927368136"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="IF35R">
         </Waypoint>
         <Waypoint
@@ -50664,6 +51174,7 @@
             lon="116.414778184419"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="FF35R">
         </Waypoint>
         <Waypoint
@@ -50671,6 +51182,7 @@
             lon="116.373239627275"
             waypointType="UNNAMED"
             magvar="0"
+            waypointRegion="ZB"
             waypointIdent="HH35R">
         </Waypoint>
     </Airport>
