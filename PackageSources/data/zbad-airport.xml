@@ -32,6 +32,22 @@
             scale="1.00"
             />
     </SceneryObject>
+    <SceneryObject
+        lat="39.5029603073586"
+        lon="116.406836007567"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{d68f2914-2698-425b-9435-5bf7080c183e}"
+            scale="1.00"
+            />
+    </SceneryObject>
     <Airport
         country="China"
         state="Beijing"
