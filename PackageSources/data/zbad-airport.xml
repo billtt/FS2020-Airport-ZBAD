@@ -2269,8 +2269,8 @@
                 name="ILS/DME 17L"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.515073362"
-                    lon="116.397820951"
+                    lat="39.5148402630218"
+                    lon="116.396680986803"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2294,8 +2294,8 @@
                 name="ILS/DME 35R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.486189115"
-                    lon="116.399478856"
+                    lat="39.4863984118691"
+                    lon="116.400623725178"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2426,8 +2426,8 @@
                 name="ILS/DME 17R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.51429176"
-                    lon="116.389005325"
+                    lat="39.5141371852439"
+                    lon="116.387852775184"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2451,8 +2451,8 @@
                 name="ILS/DME 35L"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.485402876"
-                    lon="116.390521461"
+                    lat="39.4855592521986"
+                    lon="116.391667666153"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2583,8 +2583,8 @@
                 name="ILS/DME 01L"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.472893344"
-                    lon="116.430160354"
+                    lat="39.4730984140698"
+                    lon="116.431290869537"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2608,8 +2608,8 @@
                 name="ILS/DME 19R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.499069979"
-                    lon="116.428240111"
+                    lat="39.4988287581521"
+                    lon="116.427110474554"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -2718,8 +2718,8 @@
                 name="ILS/DME 29R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.508649958"
-                    lon="116.470892983"
+                    lat="39.5095432845094"
+                    lon="116.471061426764"
                     alt="83.0F"
                     pitch="3"
                     range="27.0N"/>
@@ -4624,7 +4624,7 @@
             lon="116.42564841352"/>
         <TaxiwayPoint
             index="318"
-            type="ILS_HOLD_SHORT"
+            type="NORMAL"
             orientation="FORWARD"
             lat="39.470648531"
             lon="116.429359622"/>
@@ -9774,14 +9774,14 @@
             index="1171"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5205211429828"
-            lon="116.389500970126"/>
+            lat="39.5204315464795"
+            lon="116.388725913519"/>
         <TaxiwayPoint
             index="1172"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5202217036137"
-            lon="116.386256417611"/>
+            lat="39.5200990978724"
+            lon="116.385121184337"/>
         <TaxiwayPoint
             index="1173"
             type="HOLD_SHORT_NO_DRAW"
@@ -9892,7 +9892,7 @@
             lon="116.393051626772"/>
         <TaxiwayPoint
             index="1191"
-            type="ILS_HOLD_SHORT"
+            type="NORMAL"
             orientation="FORWARD"
             lat="39.4835237420657"
             lon="116.399137037611"/>
@@ -10050,14 +10050,14 @@
             index="1217"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5213374563444"
-            lon="116.398530321843"/>
+            lat="39.5212490670274"
+            lon="116.397708784346"/>
         <TaxiwayPoint
             index="1218"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5210090868727"
-            lon="116.394888758951"/>
+            lat="39.5208965944739"
+            lon="116.393828070447"/>
         <TaxiwayPoint
             index="1219"
             type="HOLD_SHORT_NO_DRAW"
@@ -10074,26 +10074,26 @@
             index="1221"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.505914939345"
-            lon="116.425919085913"/>
+            lat="39.5057980213291"
+            lon="116.424797110843"/>
         <TaxiwayPoint
             index="1222"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5066776849905"
-            lon="116.425666498694"/>
+            lat="39.5065607656015"
+            lon="116.424304983836"/>
         <TaxiwayPoint
             index="1223"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5061410621315"
-            lon="116.428440770676"/>
+            lat="39.505994914337"
+            lon="116.426991023538"/>
         <TaxiwayPoint
             index="1224"
             type="ILS_HOLD_SHORT"
             orientation="FORWARD"
-            lat="39.5069036282498"
-            lon="116.42845400368"/>
+            lat="39.506815938914"
+            lon="116.42720594289"/>
         <TaxiwayPoint
             index="1225"
             type="HOLD_SHORT_NO_DRAW"
