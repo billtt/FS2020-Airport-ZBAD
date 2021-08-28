@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Created by Airport Design Editor (ADE) on 2021/8/26 -->
+<!-- Created by Airport Design Editor (ADE) on 2021/8/28 -->
 <FSData
     version="9.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -45,6 +45,22 @@
         imageComplexity="NORMAL">
         <LibraryObject
             name="{d68f2914-2698-425b-9435-5bf7080c183e}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5101658364593"
+        lon="116.41085238014"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="180"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{8522c967-fe2c-4302-34c9-431ddb598f1a}"
             scale="1.00"
             />
     </SceneryObject>
