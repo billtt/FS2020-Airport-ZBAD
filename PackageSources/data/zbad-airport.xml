@@ -64,6 +64,902 @@
             scale="1.00"
             />
     </SceneryObject>
+    <SceneryObject
+        lat="39.5125386874214"
+        lon="116.4040265928"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5119668194911"
+        lon="116.403848549614"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5114882125887"
+        lon="116.403885801614"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5112984888324"
+        lon="116.404576834717"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5111368733468"
+        lon="116.405531548461"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5109155024187"
+        lon="116.406691677386"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5104403192184"
+        lon="116.407649376652"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5098558060296"
+        lon="116.408046625415"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5089306861873"
+        lon="116.407671255052"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5084134548187"
+        lon="116.406757230845"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5080980660267"
+        lon="116.406017289195"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5078415471968"
+        lon="116.40526647491"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5076733342025"
+        lon="116.404706087453"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5073957912197"
+        lon="116.404521146824"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5070005041938"
+        lon="116.404651785855"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5064117883714"
+        lon="116.405038159544"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5061762936943"
+        lon="116.405778157764"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5067229414392"
+        lon="116.406414719368"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5072864085062"
+        lon="116.407056742082"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5077825938906"
+        lon="116.407905524271"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5082157046197"
+        lon="116.408835936948"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5082156936353"
+        lon="116.409614016519"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5074671788734"
+        lon="116.410294180562"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5065588761564"
+        lon="116.410479190632"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5057304718108"
+        lon="116.410539069286"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5050954962616"
+        lon="116.410495565426"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5045656502639"
+        lon="116.410577203071"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5044605119249"
+        lon="116.411300831088"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5045361944812"
+        lon="116.411986394003"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5047338237144"
+        lon="116.412595772622"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5053099030763"
+        lon="116.412541404893"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5059658808095"
+        lon="116.412236756145"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5068363005076"
+        lon="116.411942986193"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5078749397906"
+        lon="116.41197022867"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5083164579839"
+        lon="116.412296713446"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5085603403533"
+        lon="116.412677621848"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.508530895555"
+        lon="116.413526433835"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.508265967064"
+        lon="116.414424216725"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5078538607158"
+        lon="116.415409028661"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.50740811792"
+        lon="116.416246934231"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.507328195383"
+        lon="116.417073969186"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5079084817723"
+        lon="116.417574610483"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5085140015388"
+        lon="116.417705275276"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5088966499074"
+        lon="116.416829320346"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5090606361024"
+        lon="116.415849970501"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5093045074874"
+        lon="116.414789008597"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.509779666522"
+        lon="116.413798779744"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5103431335891"
+        lon="116.413396172457"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5111925269375"
+        lon="116.41387505843"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5117181505295"
+        lon="116.414702180384"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5121344375426"
+        lon="116.415687102913"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5123951414311"
+        lon="116.416519663567"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5127819858427"
+        lon="116.417063848189"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5133118142653"
+        lon="116.416944213708"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5138458475185"
+        lon="116.416465433506"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
+    <SceneryObject
+        lat="39.5145102371097"
+        lon="116.416476391658"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="NORMAL">
+        <LibraryObject
+            name="{5e90516c-73a1-4ca5-8657-e07f71ae1c84}"
+            scale="1.00"
+            />
+    </SceneryObject>
     <Airport
         country="China"
         state="Beijing"
@@ -49311,8 +50207,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.512739154294"
-                lon="116.404524201042"
+                lat="39.5126704902238"
+                lon="116.404721631662"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49348,8 +50244,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5122320945853"
-                lon="116.404278946254"
+                lat="39.5122015774343"
+                lon="116.404377660874"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49385,13 +50281,13 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5117109217693"
-                lon="116.403972638944"
+                lat="39.5117872113514"
+                lon="116.404244104694"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="357.426644174717"
+                heading="351.735082684771"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -49422,13 +50318,13 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5115740511933"
-                lon="116.404279162813"
+                lat="39.5116121953665"
+                lon="116.404471659898"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="303.608294084783"
+                heading="312.108530232244"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -49459,8 +50355,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.511466085768"
-                lon="116.405110075203"
+                lat="39.5115538216502"
+                lon="116.405134756471"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49496,8 +50392,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5112637294552"
-                lon="116.4061569069"
+                lat="39.5113400204103"
+                lon="116.4062112053"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49533,13 +50429,13 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5108850907158"
-                lon="116.40731880983"
+                lat="39.5110321439686"
+                lon="116.407279748921"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
                 bank="0"
-                heading="307.592349041012"
+                heading="297.934907501202"
                 snapToGround="FALSE"
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
@@ -49570,8 +50466,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5093041808945"
-                lon="116.408296993477"
+                lat="39.5092126313639"
+                lon="116.408479620332"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49607,8 +50503,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5085701270988"
-                lon="116.407332566886"
+                lat="39.5084328010179"
+                lon="116.407431282948"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49644,8 +50540,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5081307984006"
-                lon="116.40649284215"
+                lat="39.5080011015388"
+                lon="116.406586621432"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49681,8 +50577,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.507802716272"
-                lon="116.405770141035"
+                lat="39.5077226093343"
+                lon="116.405809626477"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49718,8 +50614,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5075822651667"
-                lon="116.40504902627"
+                lat="39.5074945288726"
+                lon="116.405113190596"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49755,8 +50651,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5074702969529"
-                lon="116.404762362076"
+                lat="39.5074016323335"
+                lon="116.404944978538"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49792,8 +50688,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5072638721571"
-                lon="116.404724300614"
+                lat="39.5072600558999"
+                lon="116.404901980006"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49866,8 +50762,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5064647592805"
-                lon="116.405525617946"
+                lat="39.5065372357634"
+                lon="116.405584849334"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49903,8 +50799,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5065266344453"
-                lon="116.40589953422"
+                lat="39.506511376831"
+                lon="116.405919278004"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -49977,8 +50873,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5077678703229"
-                lon="116.407326401605"
+                lat="39.5077564267689"
+                lon="116.407341209272"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50051,8 +50947,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5078595285912"
-                lon="116.410605567523"
+                lat="39.507878600815"
+                lon="116.410743768018"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50088,8 +50984,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5069778498424"
-                lon="116.410878401647"
+                lat="39.5069702200741"
+                lon="116.411001793044"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50125,8 +51021,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5061313021358"
-                lon="116.410952832179"
+                lat="39.5061236729167"
+                lon="116.411081157666"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50162,8 +51058,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5053933480354"
-                lon="116.410878498794"
+                lat="39.5053857193655"
+                lon="116.410996951858"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50199,8 +51095,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5048917903483"
-                lon="116.410804137894"
+                lat="39.504937561269"
+                lon="116.410902848702"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50210,7 +51106,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
+                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50236,8 +51132,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5047128816511"
-                lon="116.410932285173"
+                lat="39.5047853534656"
+                lon="116.410981641381"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50247,7 +51143,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
+                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50273,8 +51169,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5048022982509"
-                lon="116.411626680679"
+                lat="39.5047069404268"
+                lon="116.411621746364"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50284,7 +51180,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
+                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50347,8 +51243,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5050325180416"
-                lon="116.412349341098"
+                lat="39.5050096331305"
+                lon="116.412403632961"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50384,8 +51280,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5054718480452"
-                lon="116.412100096028"
+                lat="39.5054794772642"
+                lon="116.412179064171"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50395,7 +51291,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
+                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50421,8 +51317,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5063004335111"
-                lon="116.411781015098"
+                lat="39.5062966194508"
+                lon="116.411830370878"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50495,8 +51391,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5089126820478"
-                lon="116.413025083682"
+                lat="39.5089584577742"
+                lon="116.413020148894"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50506,7 +51402,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
+                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50532,8 +51428,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5086512546515"
-                lon="116.414231474833"
+                lat="39.5087199173486"
+                lon="116.414275898792"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50543,7 +51439,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
+                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50569,8 +51465,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5083201254376"
-                lon="116.415240572156"
+                lat="39.5083849735252"
+                lon="116.415299802649"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50606,8 +51502,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5078539305827"
-                lon="116.416148175656"
+                lat="39.5079035202322"
+                lon="116.416192598395"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50643,8 +51539,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5074835860248"
-                lon="116.416728842722"
+                lat="39.5075598782157"
+                lon="116.416738714946"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50717,8 +51613,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5081675243176"
-                lon="116.417377352935"
+                lat="39.50816371012"
+                lon="116.417387223823"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50754,8 +51650,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5086423795919"
-                lon="116.417366248786"
+                lat="39.5086309357633"
+                lon="116.417361313308"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50865,8 +51761,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5092871105595"
-                lon="116.414170060327"
+                lat="39.509317627024"
+                lon="116.414194739734"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -50876,7 +51772,7 @@
                 snapToNormal="FALSE"
                 imageComplexity="VERY_SPARSE">
                 <LibraryObject
-                    name="{6d503eb6-f902-4249-951c-608989e705b6}"
+                    name="{43d4e862-3c41-4e16-802c-75cf609a74c2}"
                     scale="1.00"
                     />
             </SceneryObject>
@@ -50976,8 +51872,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.512184256008"
-                lon="116.415089207662"
+                lat="39.5122147734336"
+                lon="116.415064527938"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -51013,8 +51909,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5125676289388"
-                lon="116.416030749679"
+                lat="39.5125867022611"
+                lon="116.416015942048"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -51050,8 +51946,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.51271573939"
-                lon="116.416611486015"
+                lat="39.5127386273219"
+                lon="116.41656706125"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -51087,8 +51983,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.512916130661"
-                lon="116.416786379238"
+                lat="39.5129085017166"
+                lon="116.416741954365"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
@@ -51124,8 +52020,8 @@
                     scale="1"/>
             </SceneryObject>
             <SceneryObject
-                lat="39.5133822802296"
-                lon="116.41640878805"
+                lat="39.5134127973806"
+                lon="116.416463085591"
                 alt="0.0F"
                 altitudeIsAgl="TRUE"
                 pitch="0"
