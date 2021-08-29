@@ -3,22 +3,22 @@
     {
       "path": "ContentInfo/zbad-beijing-daxing/Thumbnail.jpg",
       "size": 13520,
-      "date": 132386306720000000
+      "date": 132746806033634703
     },
     {
       "path": "scenery/global/scenery/billtt-zbad-beijing-daxing-modelLib.BGL",
       "size": 174309480,
-      "date": 132746415723121288
+      "date": 132746848238664749
     },
     {
       "path": "scenery/world/scenery/zbad-airport.bgl",
-      "size": 174896,
-      "date": 132746415725604948
+      "size": 178808,
+      "date": 132746848240933336
     },
     {
       "path": "scenery/world/scenery/ZBAD.bgl",
       "size": 1860,
-      "date": 132746415725654807
+      "date": 132746848240973236
     }
   ]
 }
