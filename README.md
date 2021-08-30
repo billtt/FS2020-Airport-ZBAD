@@ -22,7 +22,7 @@ ZBAD (Beijing Daxing) airport scenary mod for Flight Simulator 2020
 
 跑道灯（包括PAPI指示灯）可能与实际跑道有出入。
 
-ILS Loc/DME均已设置。但是实测使用仪表ILS进近时总会有一点角度偏差，暂未找到原因。
+ILS Loc/DME均已设置。
 
 ### 滑行道
 
