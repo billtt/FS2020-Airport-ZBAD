@@ -2064,6 +2064,134 @@
             scale="1.00"
             />
     </SceneryObject>
+    <SceneryObject
+        lat="39.5157041438488"
+        lon="116.388449569591"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.516448886"
+        lon="116.397155095"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.484030235"
+        lon="116.391243947"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.484790268"
+        lon="116.400074221"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.500465925"
+        lon="116.42757714724"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.471534261"
+        lon="116.430908752"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.516639221"
+        lon="116.434154168"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
+    <SceneryObject
+        lat="39.50879036"
+        lon="116.47280758"
+        alt="0.0F"
+        altitudeIsAgl="TRUE"
+        pitch="0"
+        bank="0"
+        heading="0"
+        snapToGround="FALSE"
+        snapToNormal="FALSE"
+        imageComplexity="VERY_SPARSE">
+        <SimObject
+            containerTitle="Windsock"
+            containerPath=""
+            scale="1"/>
+    </SceneryObject>
     <Airport
         country="China"
         state="Beijing"
@@ -2510,7 +2638,7 @@
                 type="PAPI4"
                 side="LEFT"
                 biasX="40.0M"
-                biasZ="1600.0M"
+                biasZ="1430.0M"
                 spacing="100.0M"
                 pitch="3"/>
             <Vasi
@@ -2518,7 +2646,7 @@
                 type="PAPI4"
                 side="LEFT"
                 biasX="40.0M"
-                biasZ="1600.0M"
+                biasZ="1430.0M"
                 spacing="100.0M"
                 pitch="3"/>
             <Ils
