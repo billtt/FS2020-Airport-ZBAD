@@ -71,3 +71,4 @@ ADE由FSDeveloper社区开发，参见 https://www.fsdeveloper.com/forum/forums/
 - 勿开启 Two Way Edit
 - 请在FS2020中打开并build项目，直接使用ADEbuild的结果可能会有问题（至少我发现会导致廊桥不能正确连接）
 - 需要安装并启用Git lfs插件，参见 https://git-lfs.github.com/
+- 使用ADE编辑完保存项目之后，在FS中打开项目或Build之前，需要执行一次pre-build.sh脚本，以解决PaintedLine材质问题（ADE不支持使用空材质）
