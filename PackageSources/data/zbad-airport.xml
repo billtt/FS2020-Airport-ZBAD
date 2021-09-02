@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Created by Airport Design Editor (ADE) on 9/2/2021 -->
+<!-- Created by Airport Design Editor (ADE) on 2021/9/2 -->
 <FSData
     version="9.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -2652,54 +2652,54 @@
                 spacing="91.44M"
                 pitch="3"/>
             <Ils
-                lat="39.5044805165877"
-                lon="116.426105432897"
-                alt="82.999F"
+                lat="39.504275098443"
+                lon="116.426138877869"
+                alt="73.0F"
                 heading="359"
                 frequency="110.550"
                 end="PRIMARY"
-                range="27.0N"
-                magvar="5.105"
+                range="25.0N"
+                magvar="5.9227633"
                 ident="IDN"
-                width="5.19999980926514"
-                name="ILS/DME 01L"
+                width="5"
+                name="ILS/GS CAT III RW01L"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.4732011138707"
-                    lon="116.431035378279"
-                    alt="82.999F"
+                    lat="39.4742833077908"
+                    lon="116.432319581509"
+                    alt="92.0F"
                     pitch="3"
-                    range="27.0N"/>
+                    range="18.0N"/>
                 <Dme
-                    lat="39.5044805165877"
-                    lon="116.426105432897"
-                    alt="82.999F"
-                    range="27.0N"/>
+                    lat="39.4743416458368"
+                    lon="116.432261019945"
+                    alt="92.0F"
+                    range="25.0N"/>
             </Ils>
             <Ils
-                lat="39.4683132685879"
-                lon="116.431812685637"
-                alt="82.999F"
+                lat="39.4687804207206"
+                lon="116.431725025177"
+                alt="83.0F"
                 heading="179"
                 frequency="110.550"
                 end="SECONDARY"
-                range="27.0N"
-                magvar="5.105"
+                range="25.0N"
+                magvar="5.9258056"
                 ident="IDZ"
-                width="5.19999980926514"
-                name="ILS/DME 19R"
+                width="5"
+                name="ILS/GS CAT I RW19R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.4988152912705"
-                    lon="116.427001582534"
-                    alt="82.999F"
+                    lat="39.4989083334804"
+                    lon="116.428447365761"
+                    alt="102.0F"
                     pitch="3"
-                    range="27.0N"/>
+                    range="18.0N"/>
                 <Dme
-                    lat="39.4683132685879"
-                    lon="116.431812685637"
-                    alt="82.999F"
-                    range="27.0N"/>
+                    lat="39.4988442957401"
+                    lon="116.42840847373"
+                    alt="102.0F"
+                    range="25.0N"/>
             </Ils>
             <RunwayStart
                 end="PRIMARY"
@@ -65849,7 +65849,8 @@
             </Apron>
         </Aprons>
         <PaintedElements>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65861,7 +65862,8 @@
                     lon="116.388598626406"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65873,7 +65875,8 @@
                     lon="116.386409405979"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65885,7 +65888,8 @@
                     lon="116.389039292922"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65897,7 +65901,8 @@
                     lon="116.386917527632"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65909,7 +65914,8 @@
                     lon="116.389182218512"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65921,7 +65927,8 @@
                     lon="116.389943628735"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65933,7 +65940,8 @@
                     lon="116.390392451067"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65945,7 +65953,8 @@
                     lon="116.390278629673"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65957,7 +65966,8 @@
                     lon="116.390811712258"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65969,7 +65979,8 @@
                     lon="116.390734522096"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65981,7 +65992,8 @@
                     lon="116.391279909186"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -65993,7 +66005,8 @@
                     lon="116.391132722308"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66005,7 +66018,8 @@
                     lon="116.391512497217"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66017,7 +66031,8 @@
                     lon="116.392500865003"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66029,7 +66044,8 @@
                     lon="116.392639295374"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66041,7 +66057,8 @@
                     lon="116.393132354526"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66053,7 +66070,8 @@
                     lon="116.399860614337"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66065,7 +66083,8 @@
                     lon="116.402177644117"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66077,7 +66096,8 @@
                     lon="116.402053984978"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66089,7 +66109,8 @@
                     lon="116.399370487306"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66101,7 +66122,8 @@
                     lon="116.401659077769"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66113,7 +66135,8 @@
                     lon="116.40153050447"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66125,7 +66148,8 @@
                     lon="116.398932758535"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66137,7 +66161,8 @@
                     lon="116.39874217314"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66149,7 +66174,8 @@
                     lon="116.40104516621"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66161,7 +66187,8 @@
                     lon="116.401245230408"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66173,7 +66200,8 @@
                     lon="116.400308071188"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66185,7 +66213,8 @@
                     lon="116.399775881329"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{06c65325-bd2e-41f8-a062-710dc32e42e4}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66197,7 +66226,8 @@
                     lon="116.399713325183"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66209,7 +66239,8 @@
                     lon="116.399181772241"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66221,7 +66252,8 @@
                     lon="116.396372922126"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66233,7 +66265,8 @@
                     lon="116.398690763511"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66245,7 +66278,8 @@
                     lon="116.39608786068"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66257,7 +66291,8 @@
                     lon="116.3957662526"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66269,7 +66304,8 @@
                     lon="116.398391109342"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66281,7 +66317,8 @@
                     lon="116.398075752948"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66293,7 +66330,8 @@
                     lon="116.397939743716"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66305,7 +66343,8 @@
                     lon="116.397458087372"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66317,7 +66356,8 @@
                     lon="116.397579484225"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66329,7 +66369,8 @@
                     lon="116.395117422885"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66341,7 +66382,8 @@
                     lon="116.425534197033"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66353,7 +66395,8 @@
                     lon="116.425687059381"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66365,7 +66408,8 @@
                     lon="116.42856333622"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66377,7 +66421,8 @@
                     lon="116.426360572968"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66389,7 +66434,8 @@
                     lon="116.426868484147"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66401,7 +66447,8 @@
                     lon="116.42737195991"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66413,7 +66460,8 @@
                     lon="116.427718362648"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66425,7 +66473,8 @@
                     lon="116.427902521406"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66437,7 +66486,8 @@
                     lon="116.428259816058"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66449,7 +66499,8 @@
                     lon="116.428784860748"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66461,7 +66512,8 @@
                     lon="116.429331587306"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66473,7 +66525,8 @@
                     lon="116.430095357359"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66485,7 +66538,8 @@
                     lon="116.430510753946"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66497,7 +66551,8 @@
                     lon="116.431775854628"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66509,7 +66564,8 @@
                     lon="116.431224821113"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66521,7 +66577,8 @@
                     lon="116.432385816407"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66533,7 +66590,8 @@
                     lon="116.43579223351"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66545,7 +66603,8 @@
                     lon="116.436890431104"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66557,7 +66616,8 @@
                     lon="116.436240069511"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66569,7 +66629,8 @@
                     lon="116.449595700095"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
@@ -66581,7 +66642,8 @@
                     lon="116.46210219417"
                     spline="FALSE"/>
             </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+            <PaintedLine
+                surface="{b008c78f-e00d-4776-9afb-3842e7c0d02f}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
