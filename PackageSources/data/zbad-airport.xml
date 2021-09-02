@@ -2184,6 +2184,7 @@
         lat="39.510169"
         lon="116.410854"
         alt="83.0F"
+        magvar="6"
         trafficScalar="0.7"
         airportTestRadius="6000.0M"
         altType="GEOID"
