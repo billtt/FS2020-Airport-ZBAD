@@ -10141,14 +10141,14 @@
             index="1219"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5014411467064"
-            lon="116.425554632821"/>
+            lat="39.5014382330928"
+            lon="116.42547548434"/>
         <TaxiwayPoint
             index="1220"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5006024965892"
-            lon="116.425713781883"/>
+            lat="39.5005937573959"
+            lon="116.425596945741"/>
         <TaxiwayPoint
             index="1221"
             type="ILS_HOLD_SHORT"
@@ -10177,110 +10177,110 @@
             index="1225"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4972168931203"
-            lon="116.428497298718"/>
+            lat="39.4972110669914"
+            lon="116.428395541549"/>
         <TaxiwayPoint
             index="1226"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4953002295268"
-            lon="116.42657219675"/>
+            lat="39.4954458871423"
+            lon="116.426417680772"/>
         <TaxiwayPoint
             index="1227"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4921498537651"
-            lon="116.427079298163"/>
+            lat="39.4923596064872"
+            lon="116.426875789718"/>
         <TaxiwayPoint
             index="1228"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4889408291981"
-            lon="116.427596230269"/>
+            lat="39.489146914227"
+            lon="116.427375160403"/>
         <TaxiwayPoint
             index="1229"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.486658807897"
-            lon="116.427962254033"/>
+            lat="39.4865180669016"
+            lon="116.427880981236"/>
         <TaxiwayPoint
             index="1230"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4856715527522"
-            lon="116.42812143334"/>
+            lat="39.4858248599079"
+            lon="116.427984896712"/>
         <TaxiwayPoint
             index="1231"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4832950770005"
-            lon="116.428515049958"/>
+            lat="39.4829733832967"
+            lon="116.428359013971"/>
         <TaxiwayPoint
             index="1232"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4801766798317"
-            lon="116.429037349171"/>
+            lat="39.4798323670394"
+            lon="116.428855315347"/>
         <TaxiwayPoint
             index="1233"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4766740241916"
-            lon="116.429591637217"/>
+            lat="39.4763096055428"
+            lon="116.429412863065"/>
         <TaxiwayPoint
             index="1234"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4736692262001"
-            lon="116.43012486168"/>
+            lat="39.4736511744275"
+            lon="116.429839370129"/>
         <TaxiwayPoint
             index="1235"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4710847791615"
-            lon="116.430544839778"/>
+            lat="39.4710908030096"
+            lon="116.430230805973"/>
         <TaxiwayPoint
             index="1239"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.5157391633588"
-            lon="116.431010257121"/>
+            lat="39.5158355482248"
+            lon="116.431036714574"/>
         <TaxiwayPoint
             index="1240"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5174129176898"
-            lon="116.431542072504"/>
+            lat="39.5175005402953"
+            lon="116.431564750872"/>
         <TaxiwayPoint
             index="1242"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.515529948512"
-            lon="116.432173351565"/>
+            lat="39.515620491871"
+            lon="116.432203588548"/>
         <TaxiwayPoint
             index="1243"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.5166207987853"
-            lon="116.436026882907"/>
+            lat="39.5166996591302"
+            lon="116.43606469111"/>
         <TaxiwayPoint
             index="1244"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5149610220544"
-            lon="116.435560345651"/>
+            lat="39.5150194371248"
+            lon="116.43557925072"/>
         <TaxiwayPoint
             index="1241"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5147756951133"
-            lon="116.436678557919"/>
+            lat="39.5148165856625"
+            lon="116.436705024941"/>
         <TaxiwayPoint
             index="1238"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5142580980835"
-            lon="116.449359920325"/>
+            lat="39.5143117283466"
+            lon="116.449377273014"/>
         <TaxiwayPoint
             index="1237"
             type="HOLD_SHORT_NO_DRAW"
@@ -66336,240 +66336,240 @@
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5015842831482"
-                    lon="116.425489525805"
+                    lat="39.5015930239892"
+                    lon="116.42545183665"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5012822383498"
-                    lon="116.425534197033"
+                    lat="39.5012909791908"
+                    lon="116.425496508042"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5007496193389"
-                    lon="116.425642387906"
+                    lat="39.5007554454678"
+                    lon="116.42557831711"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5004475745405"
-                    lon="116.425687059381"
+                    lat="39.5004534006693"
+                    lon="116.425622988863"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4973704975504"
-                    lon="116.428518664745"
+                    lat="39.4973617583571"
+                    lon="116.428379221921"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.497068452752"
-                    lon="116.42856333622"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_BACKWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4954409394712"
-                    lon="116.426738003481"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4952155141989"
-                    lon="116.426360572968"
+                    lat="39.4970597135587"
+                    lon="116.428423894002"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4922886495081"
-                    lon="116.42724591466"
+                    lat="39.4955516458056"
+                    lon="116.426606093058"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4920632242358"
-                    lon="116.426868484147"
+                    lat="39.4953262205333"
+                    lon="116.426228662973"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4890895994786"
-                    lon="116.427749390422"
+                    lat="39.4924750922226"
+                    lon="116.427076330246"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4888641742063"
-                    lon="116.42737195991"
+                    lat="39.4922496669503"
+                    lon="116.426698900283"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_BACKWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.4892579860266"
+                    lon="116.42758033671"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.4890325607543"
+                    lon="116.427202906746"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.486537306872"
-                    lon="116.4281716839"
+                    lat="39.4864443172857"
+                    lon="116.428106665734"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4866932843367"
-                    lon="116.427718362648"
+                    lat="39.4866002947504"
+                    lon="116.427653344336"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4858206051464"
-                    lon="116.428279951919"
+                    lat="39.485928674125"
+                    lon="116.428175923777"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4855951798741"
-                    lon="116.427902521406"
+                    lat="39.4857032488527"
+                    lon="116.427798493602"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4831779207655"
-                    lon="116.42871313731"
+                    lat="39.4828964387749"
+                    lon="116.428583106121"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4833338982302"
-                    lon="116.428259816058"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4800513370583"
-                    lon="116.429238182"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.480207314523"
-                    lon="116.428784860748"
+                    lat="39.4830524162395"
+                    lon="116.428129784577"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4765392841871"
-                    lon="116.429784908558"
+                    lat="39.4797572845135"
+                    lon="116.429078901245"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4766952616518"
-                    lon="116.429331587306"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_BACKWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4738165877465"
-                    lon="116.430050686348"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4735145429481"
-                    lon="116.430095357359"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_BACKWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4712342198365"
-                    lon="116.430466082036"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4709321750381"
-                    lon="116.430510753946"
+                    lat="39.4799132619782"
+                    lon="116.428625579636"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5174792791728"
-                    lon="116.431331623942"
+                    lat="39.4762376963399"
+                    lon="116.429645134129"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5173968170412"
-                    lon="116.431775854628"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_BACKWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.5157569430084"
-                    lon="116.430780590431"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5156744808768"
-                    lon="116.431224821113"
+                    lat="39.4763936738046"
+                    lon="116.429191812563"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5155393155658"
-                    lon="116.431941585726"
+                    lat="39.4738085647364"
+                    lon="116.429817102661"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5154568534343"
-                    lon="116.432385816407"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_BACKWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.5149955347509"
-                    lon="116.435348002829"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5149130726194"
-                    lon="116.43579223351"
+                    lat="39.473506519938"
+                    lon="116.429861774686"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5148024113209"
-                    lon="116.436446200423"
+                    lat="39.4712563072798"
+                    lon="116.430206555148"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5147199491894"
-                    lon="116.436890431104"
+                    lat="39.4709542624814"
+                    lon="116.430251228185"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5166573083936"
-                    lon="116.43579583883"
+                    lat="39.5175318527361"
+                    lon="116.431339183407"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5165748462621"
-                    lon="116.436240069511"
+                    lat="39.5174493906045"
+                    lon="116.431783414084"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_BACKWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.515867931642"
+                    lon="116.430814607175"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5157854695105"
+                    lon="116.431258837816"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_BACKWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.51565906646"
+                    lon="116.431990720885"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5155766043285"
+                    lon="116.432434951508"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_BACKWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.5150539498212"
+                    lon="116.435351783847"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5149714876897"
+                    lon="116.435796014524"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_BACKWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.5148491433772"
+                    lon="116.436480229472"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5147666812457"
+                    lon="116.436924460113"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5143195763835"
-                    lon="116.449151469414"
+                    lat="39.5167332479851"
+                    lon="116.435837428149"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5142371142519"
-                    lon="116.449595700095"
+                    lat="39.5166507858535"
+                    lon="116.43628165878"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.5143430396236"
+                    lon="116.44916448394"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.514260577492"
+                    lon="116.449608714605"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
@@ -70003,8 +70003,8 @@
                     lat="39.4762670021856"
                     lon="116.428770680361"/>
                 <Vertex
-                    lat="39.476174961652"
-                    lon="116.428876465954"/>
+                    lat="39.4760643794414"
+                    lon="116.428853713009"/>
                 <Vertex
                     lat="39.4762976794342"
                     lon="116.429074893373"/>
