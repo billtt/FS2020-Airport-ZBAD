@@ -2113,8 +2113,8 @@
             scale="1"/>
     </SceneryObject>
     <SceneryObject
-        lat="39.484790268"
-        lon="116.400074221"
+        lat="39.4852118055591"
+        lon="116.400636977486"
         alt="0.0F"
         altitudeIsAgl="TRUE"
         pitch="0"
@@ -2244,23 +2244,23 @@
             overrideLevel="0">
         </Tower>
         <Runway
-            lat="39.5006312727223"
-            lon="116.398650166866"
-            alt="83.0F"
+            lat="39.5009183138609"
+            lon="116.398792415857"
+            alt="77.0F"
             altType="GEOID"
             surface="{2e0de83f-b79a-4435-905c-dcbbeac55c59}"
             transparent="FALSE"
             falloff="0"
             groundMerging="FALSE"
             excludeVegetationAround="FALSE"
-            heading="353.894991911753"
-            length="3825.0M"
+            heading="173.05699"
+            length="3800.0M"
             width="60.0M"
             primaryMarkingBias="0"
             secondaryMarkingBias="0"
-            number="35"
-            designator="RIGHT"
-            patternAltitude="457.201F"
+            number="17"
+            designator="LEFT"
+            patternAltitude="1000.0F"
             primaryTakeoff="YES"
             primaryLanding="YES"
             primaryPattern="LEFT"
@@ -2271,8 +2271,8 @@
                 alternateThreshold="FALSE"
                 alternateTouchdown="FALSE"
                 alternateFixedDistance="FALSE"
-                alternatePrecision="FALSE"
-                leadingZeroIdent="FALSE"
+                alternatePrecision="TRUE"
+                leadingZeroIdent="TRUE"
                 noThresholdEndArrows="FALSE"
                 edges="TRUE"
                 threshold="TRUE"
@@ -2288,7 +2288,7 @@
                 primaryStol="FALSE"
                 secondaryStol="FALSE"/>
             <Lights
-                center="MEDIUM"
+                center="HIGH"
                 edge="HIGH"
                 centerRed="TRUE"/>
             <BlastPad
@@ -2306,99 +2306,101 @@
             <ApproachLights
                 end="PRIMARY"
                 system="ALSF2"
-                strobes="10"
+                strobes="15"
                 reil="FALSE"
                 touchdown="TRUE"
-                offset="120"
+                spacing="30.48"
+                offset="30.48"
                 endLights="TRUE"/>
             <ApproachLights
                 end="SECONDARY"
                 system="ALSF2"
-                strobes="10"
+                strobes="15"
                 reil="FALSE"
                 touchdown="TRUE"
-                offset="120"
+                spacing="30.48"
+                offset="30.48"
                 endLights="TRUE"/>
             <Vasi
                 end="PRIMARY"
                 type="PAPI4"
                 side="LEFT"
-                biasX="40.0M"
-                biasZ="1600.0M"
+                biasX="60.0M"
+                biasZ="1581.95M"
                 spacing="100.0M"
                 pitch="3"/>
             <Vasi
                 end="SECONDARY"
                 type="PAPI4"
                 side="LEFT"
-                biasX="40.0M"
-                biasZ="1600.0M"
+                biasX="60.0M"
+                biasZ="1582.84M"
                 spacing="100.0M"
                 pitch="3"/>
             <Ils
-                lat="39.480790313"
-                lon="116.401399627"
-                alt="83.0F"
+                lat="39.4813834503293"
+                lon="116.401872038841"
+                alt="77.0F"
                 heading="179"
                 frequency="110.750"
                 end="SECONDARY"
-                range="27.0N"
-                magvar="5.105"
+                range="25.0N"
+                magvar="5.967188"
                 ident="IXA"
-                width="5.19999980926514"
-                name="ILS/DME 17L"
+                width="5"
+                name="ILS/GS CAT I RW17L"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.5148402630218"
-                    lon="116.396680986803"
-                    alt="83.0F"
+                    lat="39.5149331912398"
+                    lon="116.395116448402"
+                    alt="98.0F"
                     pitch="3"
-                    range="27.0N"/>
+                    range="18.0N"/>
                 <Dme
-                    lat="39.480790313"
-                    lon="116.401399627"
-                    alt="83.0F"
-                    range="27.0N"/>
+                    lat="39.5148748531938"
+                    lon="116.395175009966"
+                    alt="98.0F"
+                    range="25.0N"/>
             </Ils>
             <Ils
-                lat="39.520472168"
-                lon="116.395899136"
-                alt="83.0F"
+                lat="39.5204528421164"
+                lon="116.395708322525"
+                alt="76.0F"
                 heading="359"
                 frequency="110.750"
                 end="PRIMARY"
-                range="27.0N"
-                magvar="5.105"
+                range="25.0N"
+                magvar="5.9395995"
                 ident="IXO"
-                width="5.19999980926514"
-                name="ILS/DME 35R"
+                width="5"
+                name="ILS/GS CAT I RW35R"
                 backCourse="FALSE">
                 <GlideSlope
-                    lat="39.4863984118691"
-                    lon="116.400623725178"
-                    alt="83.0F"
+                    lat="39.4866251572967"
+                    lon="116.399583220482"
+                    alt="95.0F"
                     pitch="3"
-                    range="27.0N"/>
+                    range="18.0N"/>
                 <Dme
-                    lat="39.520472168"
-                    lon="116.395899136"
-                    alt="83.0F"
-                    range="27.0N"/>
+                    lat="39.4866888597608"
+                    lon="116.399622112513"
+                    alt="95.0F"
+                    range="25.0N"/>
             </Ils>
             <RunwayStart
                 end="SECONDARY"
-                lat="39.51761053"
-                lon="116.396296008"
-                alt="83.0F"
+                lat="39.4843771308661"
+                lon="116.401401758194"
+                alt="76.0F"
                 altType="GEOID"
-                heading="173.894991911753"/>
+                heading="353.0604"/>
             <RunwayStart
                 end="PRIMARY"
-                lat="39.483651967"
-                lon="116.401003166"
-                alt="83.0F"
+                lat="39.5174594968557"
+                lon="116.396181732416"
+                alt="77.0F"
                 altType="GEOID"
-                heading="353.894991911753"/>
+                heading="173.05699"/>
         </Runway>
         <Runway
             lat="39.4998473503607"
@@ -2585,8 +2587,8 @@
                 alternateThreshold="FALSE"
                 alternateTouchdown="FALSE"
                 alternateFixedDistance="FALSE"
-                alternatePrecision="FALSE"
-                leadingZeroIdent="FALSE"
+                alternatePrecision="TRUE"
+                leadingZeroIdent="TRUE"
                 noThresholdEndArrows="FALSE"
                 edges="TRUE"
                 threshold="TRUE"
@@ -2602,7 +2604,7 @@
                 primaryStol="FALSE"
                 secondaryStol="FALSE"/>
             <Lights
-                center="MEDIUM"
+                center="HIGH"
                 edge="HIGH"
                 centerRed="TRUE"/>
             <BlastPad
@@ -2641,7 +2643,7 @@
                 side="LEFT"
                 biasX="60.35M"
                 biasZ="1368.89M"
-                spacing="91.44M"
+                spacing="100.0M"
                 pitch="3"/>
             <Vasi
                 end="SECONDARY"
@@ -2649,7 +2651,7 @@
                 side="LEFT"
                 biasX="60.35M"
                 biasZ="1368.89M"
-                spacing="91.44M"
+                spacing="100.0M"
                 pitch="3"/>
             <Ils
                 lat="39.504275098443"
@@ -2798,7 +2800,7 @@
                 magvar="5.8727255"
                 ident="IBP"
                 width="5"
-                name="ILS/GS CAT I RW29R"
+                name="ILS/DME 11L"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.5085388049483"
@@ -2855,8 +2857,8 @@
             index="7"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5178309799645"
-            lon="116.397585800057"/>
+            lat="39.5178175119845"
+            lon="116.397469607293"/>
         <TaxiwayPoint
             index="8"
             type="NORMAL"
@@ -2879,86 +2881,86 @@
             index="11"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5169596170709"
-            lon="116.397510510944"/>
+            lat="39.5169461490909"
+            lon="116.397394319637"/>
         <TaxiwayPoint
             index="12"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.516882905"
-            lon="116.396775866"/>
+            lat="39.51686943702"
+            lon="116.396659674822"/>
         <TaxiwayPoint
             index="4"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.516556871"
-            lon="116.396595113"/>
+            lat="39.51654340302"
+            lon="116.396478922368"/>
         <TaxiwayPoint
             index="3"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.516250799"
-            lon="116.39655643"/>
+            lat="39.51623733102"
+            lon="116.396440239879"/>
         <TaxiwayPoint
             index="2"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.515884843"
-            lon="116.396556505"/>
+            lat="39.51587137502"
+            lon="116.396440315492"/>
         <TaxiwayPoint
             index="13"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.517628089843"
-            lon="116.395005559563"/>
+            lat="39.5176146218629"
+            lon="116.394889367139"/>
         <TaxiwayPoint
             index="14"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.517515663"
-            lon="116.396690216"/>
+            lat="39.51750219502"
+            lon="116.396574023764"/>
         <TaxiwayPoint
             index="15"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5171921016222"
-            lon="116.396482749776"/>
+            lat="39.5171786336422"
+            lon="116.396366558081"/>
         <TaxiwayPoint
             index="16"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5168910504224"
-            lon="116.396453690174"/>
+            lat="39.5168775824424"
+            lon="116.396337498983"/>
         <TaxiwayPoint
             index="17"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5165477922778"
-            lon="116.396464675748"/>
+            lat="39.5165343242978"
+            lon="116.396348485131"/>
         <TaxiwayPoint
             index="18"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.517459391"
-            lon="116.395929253"/>
+            lat="39.51744592302"
+            lon="116.395813060858"/>
         <TaxiwayPoint
             index="19"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.517172406"
-            lon="116.39626793"/>
+            lat="39.51715893802"
+            lon="116.396151738338"/>
         <TaxiwayPoint
             index="20"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.516874167"
-            lon="116.396348093"/>
+            lat="39.51686069902"
+            lon="116.396231901837"/>
         <TaxiwayPoint
             index="21"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5165421656222"
-            lon="116.396417344"/>
+            lat="39.5165286976422"
+            lon="116.396301153392"/>
         <TaxiwayPoint
             index="22"
             type="NORMAL"
@@ -4163,8 +4165,8 @@
             index="225"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.51426923"
-            lon="116.397189494"/>
+            lat="39.5142671679524"
+            lon="116.397136132503"/>
         <TaxiwayPoint
             index="226"
             type="NORMAL"
@@ -4199,20 +4201,20 @@
             index="231"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.505615744"
-            lon="116.398412859"/>
+            lat="39.505778844852"
+            lon="116.39848070351"/>
         <TaxiwayPoint
             index="232"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.505006382"
-            lon="116.398187703"/>
+            lat="39.5053558838256"
+            lon="116.398293233772"/>
         <TaxiwayPoint
             index="233"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.504331733"
-            lon="116.398173747"/>
+            lat="39.5049503643027"
+            lon="116.39822463796"/>
         <TaxiwayPoint
             index="234"
             type="NORMAL"
@@ -4223,20 +4225,20 @@
             index="235"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.501070854"
-            lon="116.399029073"/>
+            lat="39.5010958490155"
+            lon="116.399196151146"/>
         <TaxiwayPoint
             index="236"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.500349438"
-            lon="116.398839067"/>
+            lat="39.5003744297202"
+            lon="116.399006135596"/>
         <TaxiwayPoint
             index="237"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.499728217"
-            lon="116.398813251"/>
+            lat="39.4997532087202"
+            lon="116.398980315261"/>
         <TaxiwayPoint
             index="238"
             type="NORMAL"
@@ -4247,20 +4249,20 @@
             index="239"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.500910539"
-            lon="116.399063668"/>
+            lat="39.5009355307202"
+            lon="116.399230745761"/>
         <TaxiwayPoint
             index="240"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.501665352"
-            lon="116.398640068"/>
+            lat="39.5016903470155"
+            lon="116.398807134075"/>
         <TaxiwayPoint
             index="241"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.502246493"
-            lon="116.398449835"/>
+            lat="39.5022714880155"
+            lon="116.398616902472"/>
         <TaxiwayPoint
             index="242"
             type="NORMAL"
@@ -4271,20 +4273,20 @@
             index="243"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.496313919"
-            lon="116.399732785"/>
+            lat="39.4959860245992"
+            lon="116.40002167277"/>
         <TaxiwayPoint
             index="244"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.496935052"
-            lon="116.399318727"/>
+            lat="39.4965223349188"
+            lon="116.399614928846"/>
         <TaxiwayPoint
             index="245"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.497575007"
-            lon="116.399123817"/>
+            lat="39.4968061469215"
+            lon="116.399500473952"/>
         <TaxiwayPoint
             index="246"
             type="NORMAL"
@@ -4967,20 +4969,20 @@
             index="362"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.48834129"
-            lon="116.400767928"/>
+            lat="39.4883847640815"
+            lon="116.401201320537"/>
         <TaxiwayPoint
             index="363"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.488579115"
-            lon="116.400494371"/>
+            lat="39.4886225890815"
+            lon="116.400927765019"/>
         <TaxiwayPoint
             index="364"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.488978653"
-            lon="116.400302348"/>
+            lat="39.4890221270815"
+            lon="116.400735744509"/>
         <TaxiwayPoint
             index="365"
             type="NORMAL"
@@ -4991,8 +4993,8 @@
             index="366"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.48372758"
-            lon="116.401395804"/>
+            lat="39.4837507087649"
+            lon="116.401889428686"/>
         <TaxiwayPoint
             index="367"
             type="NORMAL"
@@ -5003,14 +5005,14 @@
             index="368"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.484058619"
-            lon="116.401129978"/>
+            lat="39.4840817477649"
+            lon="116.401623605035"/>
         <TaxiwayPoint
             index="369"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.484566604"
-            lon="116.40089366"/>
+            lat="39.4845897327649"
+            lon="116.401387290641"/>
         <TaxiwayPoint
             index="370"
             type="NORMAL"
@@ -5027,26 +5029,26 @@
             index="372"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.484663631"
-            lon="116.401284933"/>
+            lat="39.4846867597649"
+            lon="116.40177856433"/>
         <TaxiwayPoint
             index="373"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.484977553"
-            lon="116.400982198"/>
+            lat="39.4850006817649"
+            lon="116.401475831558"/>
         <TaxiwayPoint
             index="374"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.485445581"
-            lon="116.400775412"/>
+            lat="39.4854687097649"
+            lon="116.40126904888"/>
         <TaxiwayPoint
             index="375"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.483647657"
-            lon="116.40052467"/>
+            lat="39.4836707857649"
+            lon="116.401018294118"/>
         <TaxiwayPoint
             index="376"
             type="NORMAL"
@@ -5537,50 +5539,50 @@
             index="457"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.514035102"
-            lon="116.396987512"/>
+            lat="39.5140330399524"
+            lon="116.396934150683"/>
         <TaxiwayPoint
             index="458"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.513597773"
-            lon="116.396910161"/>
+            lat="39.5135957109524"
+            lon="116.396856800019"/>
         <TaxiwayPoint
             index="459"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5133527230014"
-            lon="116.397316804005"/>
+            lat="39.5133506609538"
+            lon="116.397263443212"/>
         <TaxiwayPoint
             index="460"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.513070151987"
-            lon="116.397091799763"/>
+            lat="39.5130680899394"
+            lon="116.397038439187"/>
         <TaxiwayPoint
             index="461"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.51267081"
-            lon="116.39702113"/>
+            lat="39.5126687479524"
+            lon="116.396967769731"/>
         <TaxiwayPoint
             index="462"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5132744012114"
-            lon="116.396448990191"/>
+            lat="39.5132723391638"
+            lon="116.396395629459"/>
         <TaxiwayPoint
             index="463"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.513040739"
-            lon="116.396769691"/>
+            lat="39.5130386769524"
+            lon="116.396716330447"/>
         <TaxiwayPoint
             index="464"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.512661966"
-            lon="116.396948414"/>
+            lat="39.5126599039524"
+            lon="116.396895053738"/>
         <TaxiwayPoint
             index="465"
             type="NORMAL"
@@ -5621,146 +5623,146 @@
             index="471"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5089381187899"
-            lon="116.397932633603"/>
+            lat="39.508935668169"
+            lon="116.397970684913"/>
         <TaxiwayPoint
             index="472"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.508671092"
-            lon="116.397719156"/>
+            lat="39.5086686413791"
+            lon="116.397757207164"/>
         <TaxiwayPoint
             index="473"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.508321777"
-            lon="116.397619265"/>
+            lat="39.5083193263791"
+            lon="116.397657315972"/>
         <TaxiwayPoint
             index="474"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.508879225171"
-            lon="116.397067596245"/>
+            lat="39.5088767745501"
+            lon="116.397105647523"/>
         <TaxiwayPoint
             index="475"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.508630788"
-            lon="116.397375825"/>
+            lat="39.5086283373791"
+            lon="116.397413876142"/>
         <TaxiwayPoint
             index="476"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.5083117"
-            lon="116.397549728"/>
+            lat="39.5083092493791"
+            lon="116.397587778967"/>
         <TaxiwayPoint
             index="477"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4917423217896"
-            lon="116.399454177349"/>
+            lat="39.4917602417493"
+            lon="116.399828945226"/>
         <TaxiwayPoint
             index="478"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.492027757"
-            lon="116.399663662"/>
+            lat="39.4920456769597"
+            lon="116.400038431415"/>
         <TaxiwayPoint
             index="479"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.492341749"
-            lon="116.399759186"/>
+            lat="39.4923596689597"
+            lon="116.400133957108"/>
         <TaxiwayPoint
             index="480"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4918207877639"
-            lon="116.400295068302"/>
+            lat="39.4918387077236"
+            lon="116.400669836602"/>
         <TaxiwayPoint
             index="481"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.492064696"
-            lon="116.399998162"/>
+            lat="39.4920826159597"
+            lon="116.400372931615"/>
         <TaxiwayPoint
             index="482"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.492341749"
-            lon="116.399835645"/>
+            lat="39.4923596689597"
+            lon="116.400210416108"/>
         <TaxiwayPoint
             index="483"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4904034392202"
-            lon="116.399644672745"/>
+            lat="39.490421356983"
+            lon="116.400019433405"/>
         <TaxiwayPoint
             index="484"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.490616613"
-            lon="116.399845502"/>
+            lat="39.4906345307628"
+            lon="116.400220263809"/>
         <TaxiwayPoint
             index="485"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.490923214"
-            lon="116.39996014"/>
+            lat="39.4909411317628"
+            lon="116.400334903462"/>
         <TaxiwayPoint
             index="486"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4904799841551"
-            lon="116.40049117609"/>
+            lat="39.4904979019179"
+            lon="116.400865937163"/>
         <TaxiwayPoint
             index="487"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.490664632"
-            lon="116.400194328"/>
+            lat="39.4906825497628"
+            lon="116.400569090068"/>
         <TaxiwayPoint
             index="488"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.490926909"
-            lon="116.400017483"/>
+            lat="39.4909448267628"
+            lon="116.400392246482"/>
         <TaxiwayPoint
             index="490"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4873361667824"
-            lon="116.400079686569"/>
+            lat="39.4873796408639"
+            lon="116.400513072841"/>
         <TaxiwayPoint
             index="491"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.487557847"
-            lon="116.400266593"/>
+            lat="39.4876013210815"
+            lon="116.400699980654"/>
         <TaxiwayPoint
             index="492"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.487908776"
-            lon="116.400381216"/>
+            lat="39.4879522500815"
+            lon="116.400814605841"/>
         <TaxiwayPoint
             index="493"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.4874137965581"
-            lon="116.400897347348"/>
+            lat="39.4874572706396"
+            lon="116.401330734104"/>
         <TaxiwayPoint
             index="489"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.487594785"
-            lon="116.400615406"/>
+            lat="39.4876382590815"
+            lon="116.401048793884"/>
         <TaxiwayPoint
             index="454"
             type="NORMAL"
             orientation="FORWARD"
-            lat="39.487916167"
-            lon="116.400438555"/>
+            lat="39.4879596410815"
+            lon="116.400871944887"/>
         <TaxiwayPoint
             index="494"
             type="NORMAL"
@@ -9977,92 +9979,92 @@
             index="1192"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.4835983214468"
-            lon="116.399882913378"/>
+            lat="39.4836214502118"
+            lon="116.400376537146"/>
         <TaxiwayPoint
             index="1193"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4837897548353"
-            lon="116.40211191461"/>
+            lat="39.4838128836003"
+            lon="116.402605539737"/>
         <TaxiwayPoint
             index="1194"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4847201136172"
-            lon="116.401978735716"/>
+            lat="39.4847432423822"
+            lon="116.402472367446"/>
         <TaxiwayPoint
             index="1195"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.4872712761632"
-            lon="116.399396252775"/>
+            lat="39.4873147502446"
+            lon="116.399829638642"/>
         <TaxiwayPoint
             index="1196"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4874797586228"
-            lon="116.401588082268"/>
+            lat="39.4875232327043"
+            lon="116.402021469435"/>
         <TaxiwayPoint
             index="1197"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4883919404217"
-            lon="116.401455910605"/>
+            lat="39.4884354145032"
+            lon="116.401889303457"/>
         <TaxiwayPoint
             index="1198"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.4903428572358"
-            lon="116.39895751965"/>
+            lat="39.4903607749986"
+            lon="116.399332279984"/>
         <TaxiwayPoint
             index="1199"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4905424120291"
-            lon="116.401174706331"/>
+            lat="39.490560329792"
+            lon="116.40154946774"/>
         <TaxiwayPoint
             index="1200"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4918806562305"
-            lon="116.400979524353"/>
+            lat="39.4918985761902"
+            lon="116.401354292975"/>
         <TaxiwayPoint
             index="1201"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.4916666362716"
-            lon="116.39876820602"/>
+            lat="39.4916845540344"
+            lon="116.399142973489"/>
         <TaxiwayPoint
             index="1202"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.4954005407578"
-            lon="116.400498572651"/>
+            lat="39.4949454711029"
+            lon="116.400856955342"/>
         <TaxiwayPoint
             index="1203"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5000529396934"
-            lon="116.399849977965"/>
+            lat="39.4998518152221"
+            lon="116.400097984437"/>
         <TaxiwayPoint
             index="1204"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5020542314255"
-            lon="116.399565350909"/>
+            lat="39.5023041134775"
+            lon="116.399699402187"/>
         <TaxiwayPoint
             index="1205"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.506572109473"
-            lon="116.398932992497"/>
+            lat="39.5067147996513"
+            lon="116.39902104475"/>
         <TaxiwayPoint
             index="1206"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.5088324350478"
-            lon="116.396380404809"/>
+            lat="39.5088285320138"
+            lon="116.396435953785"/>
         <TaxiwayPoint
             index="1207"
             type="HOLD_SHORT_NO_DRAW"
@@ -10085,32 +10087,32 @@
             index="1210"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5134390748409"
-            lon="116.398000454602"/>
+            lat="39.5134370127933"
+            lon="116.397947093744"/>
         <TaxiwayPoint
             index="1211"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5143556233482"
-            lon="116.397878050844"/>
+            lat="39.5143535613006"
+            lon="116.397824689281"/>
         <TaxiwayPoint
             index="1212"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.5132100682405"
-            lon="116.395786399111"/>
+            lat="39.5132080061929"
+            lon="116.395733038428"/>
         <TaxiwayPoint
             index="1214"
             type="HOLD_SHORT_NO_DRAW"
             orientation="REVERSE"
-            lat="39.5176381888877"
-            lon="116.395161753177"/>
+            lat="39.5176247209077"
+            lon="116.395045560736"/>
         <TaxiwayPoint
             index="1213"
             type="HOLD_SHORT_NO_DRAW"
             orientation="FORWARD"
-            lat="39.5178234896902"
-            lon="116.397390248939"/>
+            lat="39.5178100217102"
+            lon="116.397274056188"/>
         <TaxiwayPoint
             index="1215"
             type="ILS_HOLD_SHORT"
@@ -66046,168 +66048,168 @@
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4837342430258"
-                    lon="116.399815941994"
+                    lat="39.4837573717908"
+                    lon="116.400309566727"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4834321982274"
-                    lon="116.399860614337"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4839363978343"
-                    lon="116.402132972125"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4836343530359"
-                    lon="116.402177644117"
+                    lat="39.4834553269924"
+                    lon="116.400354236926"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4848775505154"
-                    lon="116.402009312036"
+                    lat="39.4839595265992"
+                    lon="116.402626598293"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.484575505717"
-                    lon="116.402053984978"
+                    lat="39.4836574818008"
+                    lon="116.402671268141"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.4849006792803"
+                    lon="116.402502944884"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.4845986344819"
+                    lon="116.402547615682"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4874182084393"
-                    lon="116.399325814405"
+                    lat="39.4874616825208"
+                    lon="116.399759201188"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4871161636409"
-                    lon="116.399370487306"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4876351943926"
-                    lon="116.401614406232"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4873331495941"
-                    lon="116.401659077769"
+                    lat="39.4871596377224"
+                    lon="116.399803872207"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4885397272614"
-                    lon="116.401485832065"
+                    lat="39.487678668474"
+                    lon="116.402047794368"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.488237682463"
-                    lon="116.40153050447"
+                    lat="39.4873766236756"
+                    lon="116.402092464022"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.4885832013429"
+                    lon="116.401919225839"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.4882811565445"
+                    lon="116.401963896362"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4904840198227"
-                    lon="116.398888079806"
+                    lat="39.4905019375855"
+                    lon="116.3992628409"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4901819750243"
-                    lon="116.398932758535"
+                    lat="39.4901998927871"
+                    lon="116.399307518002"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4918118851025"
-                    lon="116.398697500921"
+                    lat="39.4918298050622"
+                    lon="116.399072269172"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4915098468948"
-                    lon="116.39874217314"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4920435978487"
-                    lon="116.401000494053"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4917415530503"
-                    lon="116.40104516621"
+                    lat="39.4915277646576"
+                    lon="116.399116939763"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.4907046789613"
-                    lon="116.401200558623"
+                    lat="39.4920615178084"
+                    lon="116.401375263554"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.4904026341628"
-                    lon="116.401245230408"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.4954697757333"
-                    lon="116.400714673194"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.4952869556761"
-                    lon="116.400308071188"
+                    lat="39.49175947301"
+                    lon="116.401419934083"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5021637682251"
-                    lon="116.399388429144"
+                    lat="39.4907225967241"
+                    lon="116.401575320907"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5020206897483"
-                    lon="116.399775881329"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.5001107805742"
-                    lon="116.40004087611"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.499924704739"
-                    lon="116.399713325183"
+                    lat="39.4904205519257"
+                    lon="116.401619991064"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5066714654927"
-                    lon="116.398732589295"
+                    lat="39.4950401141076"
+                    lon="116.401073044818"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5065334681273"
-                    lon="116.399181772241"
+                    lat="39.4948572940504"
+                    lon="116.400666441869"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.5023770793454"
+                    lon="116.399506708396"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5022340008686"
+                    lon="116.399894160337"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.4999451313401"
+                    lon="116.400270509046"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.4997590555049"
+                    lon="116.399942957504"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.5068207416461"
+                    lon="116.398823499079"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5066827442807"
+                    lon="116.399272664789"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
@@ -66250,12 +66252,12 @@
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5133611397398"
-                    lon="116.395721581125"
+                    lat="39.5133590776922"
+                    lon="116.395668220326"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5130590949414"
-                    lon="116.3957662526"
+                    lat="39.5130570328938"
+                    lon="116.395712892033"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
@@ -66274,60 +66276,60 @@
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5135949614919"
-                    lon="116.398031081473"
+                    lat="39.5135928994443"
+                    lon="116.397977720494"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5132929166935"
-                    lon="116.398075752948"
-                    spline="FALSE"/>
-            </PaintedLine>
-            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
-                type="HOLD_SHORT_FORWARD_MARKED"
-                trueAngle="ALL_POINTS">
-                <Vertex
-                    lat="39.5145159742649"
-                    lon="116.397895072241"
-                    spline="FALSE"/>
-                <Vertex
-                    lat="39.5142139294664"
-                    lon="116.397939743716"
+                    lat="39.5132908546459"
+                    lon="116.398022392201"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5179856229357"
-                    lon="116.397413415897"
+                    lat="39.5145139122173"
+                    lon="116.397841710555"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5176835781373"
-                    lon="116.397458087372"
+                    lat="39.5142118674189"
+                    lon="116.397886382262"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_FORWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.517116759728"
-                    lon="116.39753481275"
+                    lat="39.5179721549557"
+                    lon="116.397297222874"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5168147149296"
-                    lon="116.397579484225"
+                    lat="39.5176701101573"
+                    lon="116.397341894855"
+                    spline="FALSE"/>
+            </PaintedLine>
+            <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
+                type="HOLD_SHORT_FORWARD_MARKED"
+                trueAngle="ALL_POINTS">
+                <Vertex
+                    lat="39.517103291748"
+                    lon="116.397418621181"
+                    spline="FALSE"/>
+                <Vertex
+                    lat="39.5168012469496"
+                    lon="116.397463293161"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
                 type="HOLD_SHORT_BACKWARD_MARKED"
                 trueAngle="ALL_POINTS">
                 <Vertex
-                    lat="39.5177918173741"
-                    lon="116.395072751411"
+                    lat="39.5177783493941"
+                    lon="116.394956558712"
                     spline="FALSE"/>
                 <Vertex
-                    lat="39.5174897725757"
-                    lon="116.395117422885"
+                    lat="39.5174763045957"
+                    lon="116.395001230692"
                     spline="FALSE"/>
             </PaintedLine>
             <PaintedLine surface="{00000000-0000-0000-0000-000000000000}"
@@ -66602,8 +66604,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5166186037412"
-                    lon="116.397010302591"/>
+                    lat="39.5165861030812"
+                    lon="116.396745011456"/>
                 <Vertex
                     lat="39.5167416477603"
                     lon="116.398221972965"/>
@@ -66641,8 +66643,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5180306754763"
-                    lon="116.396650689699"/>
+                    lat="39.5180156751717"
+                    lon="116.396501864759"/>
                 <Vertex
                     lat="39.518219460066"
                     lon="116.399116347954"/>
@@ -66675,7 +66677,7 @@
                     lon="116.391398475512"/>
                 <Vertex
                     lat="39.5179502333769"
-                    lon="116.395863744081"/>
+                    lon="116.395714919321"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -66863,8 +66865,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5171361120542"
-                    lon="116.395963701826"/>
+                    lat="39.5170236097696"
+                    lon="116.395866643393"/>
                 <Vertex
                     lat="39.5173150941601"
                     lon="116.395268803527"/>
@@ -66899,8 +66901,8 @@
                     lat="39.513147353544"
                     lon="116.392198340221"/>
                 <Vertex
-                    lat="39.5135394111546"
-                    lon="116.396488479095"/>
+                    lat="39.5135317791894"
+                    lon="116.396397126874"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -67562,8 +67564,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5129216877132"
-                    lon="116.396578296634"/>
+                    lat="39.5128091112837"
+                    lon="116.3965313865"/>
                 <Vertex
                     lat="39.5129808497232"
                     lon="116.396320779279"/>
@@ -67667,11 +67669,11 @@
                     lat="39.4916283554526"
                     lon="116.39531690193"/>
                 <Vertex
-                    lat="39.4919833231185"
-                    lon="116.399261800615"/>
+                    lat="39.4919922830983"
+                    lon="116.399621115543"/>
                 <Vertex
-                    lat="39.4921823210087"
-                    lon="116.399428745321"/>
+                    lat="39.4922868541069"
+                    lon="116.399772606838"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -67679,8 +67681,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4914884580597"
-                    lon="116.399533242571"/>
+                    lat="39.4915033836703"
+                    lon="116.399896418196"/>
                 <Vertex
                     lat="39.4911442463241"
                     lon="116.395866742951"/>
@@ -67703,11 +67705,11 @@
                     lat="39.4903643886585"
                     lon="116.396764407573"/>
                 <Vertex
-                    lat="39.4906440604191"
-                    lon="116.399491632959"/>
+                    lat="39.4906709326696"
+                    lon="116.399839350294"/>
                 <Vertex
-                    lat="39.490826924414"
-                    lon="116.399623795941"/>
+                    lat="39.4909523509506"
+                    lon="116.399994695815"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -67715,8 +67717,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.490138386705"
-                    lon="116.399721405389"/>
+                    lat="39.4901712278816"
+                    lon="116.400103891633"/>
                 <Vertex
                     lat="39.4898533325855"
                     lon="116.396855054988"/>
@@ -67742,11 +67744,11 @@
                     lat="39.487363176566"
                     lon="116.397690399242"/>
                 <Vertex
-                    lat="39.4875836863166"
-                    lon="116.399874870893"/>
+                    lat="39.4876297153709"
+                    lon="116.400328100452"/>
                 <Vertex
-                    lat="39.487793440137"
-                    lon="116.40004876458"/>
+                    lat="39.4879238689721"
+                    lon="116.400465607278"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -67796,11 +67798,11 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5128813793375"
-                    lon="116.397335945971"/>
+                    lat="39.5128184145263"
+                    lon="116.397306318522"/>
                 <Vertex
-                    lat="39.5130849698078"
-                    lon="116.397488706307"/>
+                    lat="39.5130811538252"
+                    lon="116.397446733938"/>
                 <Vertex
                     lat="39.5132234106686"
                     lon="116.398668928742"/>
@@ -68003,8 +68005,8 @@
                     lat="39.5079091078835"
                     lon="116.399350399473"/>
                 <Vertex
-                    lat="39.5060034716432"
-                    lon="116.398281332311"/>
+                    lat="39.5061665724952"
+                    lon="116.398349177192"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68081,8 +68083,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5046299903228"
-                    lon="116.398504291964"/>
+                    lat="39.5049125042985"
+                    lon="116.398534444569"/>
                 <Vertex
                     lat="39.5051837559626"
                     lon="116.398599023922"/>
@@ -68102,11 +68104,11 @@
                     lat="39.5032700088371"
                     lon="116.399837392021"/>
                 <Vertex
-                    lat="39.5016778389805"
-                    lon="116.398994938225"/>
+                    lat="39.5017654022703"
+                    lon="116.399120475213"/>
                 <Vertex
-                    lat="39.5018283648846"
-                    lon="116.398894836968"/>
+                    lat="39.5018875296407"
+                    lon="116.39902955912"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68198,8 +68200,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5010372020685"
-                    lon="116.399380440262"/>
+                    lat="39.5009685709515"
+                    lon="116.399521286029"/>
                 <Vertex
                     lat="39.502466405083"
                     lon="116.400138820445"/>
@@ -68210,14 +68212,14 @@
                     lat="39.502401254375"
                     lon="116.400333750513"/>
                 <Vertex
-                    lat="39.4996242845342"
-                    lon="116.400729267662"/>
+                    lat="39.4997213086927"
+                    lon="116.400753762141"/>
                 <Vertex
-                    lat="39.4995347067045"
-                    lon="116.400676599875"/>
+                    lat="39.4995843957628"
+                    lon="116.400710279674"/>
                 <Vertex
-                    lat="39.50102905823"
-                    lon="116.399385711224"/>
+                    lat="39.5009438653751"
+                    lon="116.399566357523"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68309,14 +68311,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.5000184709227"
-                    lon="116.39913430143"/>
-                <Vertex
-                    lat="39.500262779487"
-                    lon="116.399208014177"/>
-                <Vertex
-                    lat="39.5002709233255"
-                    lon="116.399292300199"/>
+                    lat="39.5002756477185"
+                    lon="116.399332103265"/>
                 <Vertex
                     lat="39.4987724987822"
                     lon="116.400667465788"/>
@@ -68330,11 +68326,11 @@
                     lat="39.4947982814285"
                     lon="116.401389813102"/>
                 <Vertex
-                    lat="39.4969766956162"
-                    lon="116.399645891946"/>
+                    lat="39.4964989892976"
+                    lon="116.40001158225"/>
                 <Vertex
-                    lat="39.4974164519108"
-                    lon="116.399477253189"/>
+                    lat="39.4969500496443"
+                    lon="116.399788084191"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68399,8 +68395,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4958802410113"
-                    lon="116.399688984231"/>
+                    lat="39.4954675491942"
+                    lon="116.400029068226"/>
                 <Vertex
                     lat="39.4939746377243"
                     lon="116.401274812531"/>
@@ -68415,10 +68411,10 @@
                     lon="116.401617433784"/>
                 <Vertex
                     lat="39.4921219682891"
-                    lon="116.40042175485"/>
+                    lon="116.400842887954"/>
                 <Vertex
-                    lat="39.4923174138225"
-                    lon="116.400174158409"/>
+                    lat="39.49246674682"
+                    lon="116.400498702104"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68426,8 +68422,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4915517150561"
-                    lon="116.400285272473"/>
+                    lat="39.4915755951544"
+                    lon="116.400652312292"/>
                 <Vertex
                     lat="39.491686085096"
                     lon="116.40174957413"/>
@@ -68435,11 +68431,11 @@
                     lat="39.4909002255512"
                     lon="116.401912960237"/>
                 <Vertex
-                    lat="39.4907780745643"
-                    lon="116.400527685706"/>
+                    lat="39.4907750890028"
+                    lon="116.401029944928"/>
                 <Vertex
-                    lat="39.4909490885822"
-                    lon="116.40036437415"/>
+                    lat="39.4909908930339"
+                    lon="116.400731410631"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68447,8 +68443,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4902118723801"
-                    lon="116.400469832912"/>
+                    lat="39.4902357590691"
+                    lon="116.400863910086"/>
                 <Vertex
                     lat="39.4903299547431"
                     lon="116.401949909536"/>
@@ -68459,11 +68455,11 @@
                     lat="39.4887500984054"
                     lon="116.402187131728"/>
                 <Vertex
-                    lat="39.4886279430248"
-                    lon="116.400886172823"/>
+                    lat="39.4886688577397"
+                    lon="116.401336100187"/>
                 <Vertex
-                    lat="39.4890066194322"
-                    lon="116.400633294506"/>
+                    lat="39.489111465586"
+                    lon="116.401040214045"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68471,8 +68467,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4880862360657"
-                    lon="116.400775651729"/>
+                    lat="39.4881092505928"
+                    lon="116.401199108432"/>
                 <Vertex
                     lat="39.4881717430746"
                     lon="116.402282022346"/>
@@ -68486,11 +68482,11 @@
                     lat="39.4877930666672"
                     lon="116.402282069027"/>
                 <Vertex
-                    lat="39.4876912719813"
-                    lon="116.400954787618"/>
+                    lat="39.4877449725446"
+                    lon="116.401434489616"/>
                 <Vertex
-                    lat="39.4879192950656"
-                    lon="116.400780941707"/>
+                    lat="39.4879985673256"
+                    lon="116.401217640182"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68498,8 +68494,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4870802182712"
-                    lon="116.400159856188"/>
+                    lat="39.4871160208436"
+                    lon="116.400589926773"/>
                 <Vertex
                     lat="39.4866567518505"
                     lon="116.395672473385"/>
@@ -68522,8 +68518,8 @@
                     lat="39.4835294212036"
                     lon="116.396457949687"/>
                 <Vertex
-                    lat="39.4839040245934"
-                    lon="116.40058700466"/>
+                    lat="39.4839424612263"
+                    lon="116.401096676202"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68534,8 +68530,8 @@
                     lat="39.4826499042207"
                     lon="116.392360944457"/>
                 <Vertex
-                    lat="39.4833909693585"
-                    lon="116.400655818116"/>
+                    lat="39.4834230020828"
+                    lon="116.401182059409"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68543,8 +68539,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4871484665816"
-                    lon="116.400903202256"/>
+                    lat="39.4871868241268"
+                    lon="116.401336584519"/>
                 <Vertex
                     lat="39.4872787636039"
                     lon="116.402388478656"/>
@@ -68558,11 +68554,11 @@
                     lat="39.4850392717259"
                     lon="116.402720561405"/>
                 <Vertex
-                    lat="39.4849578377346"
-                    lon="116.401372264069"/>
+                    lat="39.4849809664996"
+                    lon="116.401929469294"/>
                 <Vertex
-                    lat="39.4853894501907"
-                    lon="116.401140462386"/>
+                    lat="39.4854299255294"
+                    lon="116.401615400756"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68570,8 +68566,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4844040479291"
-                    lon="116.401277540389"/>
+                    lat="39.4844242855985"
+                    lon="116.401816052389"/>
                 <Vertex
                     lat="39.484493623562"
                     lon="116.402820698576"/>
@@ -68582,11 +68578,11 @@
                     lat="39.4840945864599"
                     lon="116.402852343311"/>
                 <Vertex
-                    lat="39.4840172254863"
-                    lon="116.401556729825"/>
+                    lat="39.4840403542513"
+                    lon="116.402054098995"/>
                 <Vertex
-                    lat="39.4842818925485"
-                    lon="116.401309155936"/>
+                    lat="39.4843859719908"
+                    lon="116.401814012265"/>
             </EdgeLights>
             <EdgeLights
                 preset=""
@@ -68594,8 +68590,8 @@
                 heading="0"
                 spacing="60.96">
                 <Vertex
-                    lat="39.4834593890257"
-                    lon="116.401398804115"/>
+                    lat="39.4834978256587"
+                    lon="116.401937476683"/>
                 <Vertex
                     lat="39.4837199830701"
                     lon="116.404385008838"/>
