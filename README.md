@@ -18,11 +18,9 @@ ZBAD (Beijing Daxing) airport scenary mod for Flight Simulator 2020
 
 ### 跑道
 
-除了建设中的36/18跑道以外，其余四条跑道均完成可用。
+除了建设中的36/18跑道以外，其余四条跑道均完成可用。跑道及ILS/DME数据来源：navigraph-data。
 
 跑道灯（包括PAPI指示灯）可能与实际跑道有出入。
-
-ILS Loc/DME均已设置。
 
 ### 滑行道
 
