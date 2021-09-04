@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Created by Airport Design Editor (ADE) on 2021/9/2 -->
+<!-- Created by Airport Design Editor (ADE) on 2021/9/4 -->
 <FSData
     version="9.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -2333,7 +2333,7 @@
                 magvar="5.967188"
                 ident="IXA"
                 width="5"
-                name="ILS/GS CAT I RW17L"
+                name="ILS/DME 17L"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.5149331912398"
@@ -2358,7 +2358,7 @@
                 magvar="5.9395995"
                 ident="IXO"
                 width="5"
-                name="ILS/GS CAT I RW35R"
+                name="ILS/DME 17L"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.4866251572967"
@@ -2492,7 +2492,7 @@
                 magvar="5.9475007"
                 ident="IXE"
                 width="5"
-                name="ILS/GS CAT I RW17R"
+                name="ILS/DME 17R"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.5144027844071"
@@ -2517,7 +2517,7 @@
                 magvar="5.944089"
                 ident="IXR"
                 width="5"
-                name="ILS/GS CAT II RW35L"
+                name="ILS/DME 17R"
                 backCourse="FALSE">
                 <GlideSlope
                     lat="39.4860471412539"

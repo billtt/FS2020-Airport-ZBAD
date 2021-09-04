@@ -2,3 +2,4 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.bgl filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.cgl filter=lfs diff=lfs merge=lfs -text

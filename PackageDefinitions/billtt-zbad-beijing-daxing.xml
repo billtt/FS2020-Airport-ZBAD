@@ -39,5 +39,5 @@
                                                                             <AssetDir>PackageDefinitions\zbad-beijing-daxing\ContentInfo\</AssetDir>
                                                                                 <OutputDir>ContentInfo\zbad-beijing-daxing\</OutputDir>
                                                                                 </AssetGroup>
-                                                                            </AssetGroups>
+<AssetGroup Name="zbad-aerial"><Type>CGL</Type><Flags><FSXCompatibility>false</FSXCompatibility></Flags><AssetDir>PackageSources\CGL\</AssetDir><OutputDir>CGL\</OutputDir></AssetGroup></AssetGroups>
                                                                         </AssetPackage>
