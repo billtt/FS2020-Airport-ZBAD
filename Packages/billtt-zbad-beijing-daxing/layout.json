@@ -2,8 +2,8 @@
   "content": [
     {
       "path": "CGL/132/sai100.cgl",
-      "size": 170226820,
-      "date": 132752290918264188
+      "size": 71347872,
+      "date": 132753055133359609
     },
     {
       "path": "ContentInfo/zbad-beijing-daxing/Thumbnail.jpg",
@@ -17,13 +17,13 @@
     },
     {
       "path": "scenery/world/scenery/zbad-airport.bgl",
-      "size": 179204,
-      "date": 132752248324054244
+      "size": 179276,
+      "date": 132753055313407437
     },
     {
       "path": "scenery/world/scenery/ZBAD.bgl",
       "size": 1860,
-      "date": 132750702681662284
+      "date": 132753055313443158
     }
   ]
 }
