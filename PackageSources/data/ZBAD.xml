@@ -66,20 +66,14 @@
 			<AttributeBlock name="AirportSize" guid="{86A147E9-ACF2-4780-9D3C-416373ECB451}">
 				<Field name="AirprtSize" type="UINT8" />
 			</AttributeBlock>
-			<AttributeBlock name="EcoRegion" guid="{8C1A396B-F730-4128-981A-C90600F856E0}">
-				<Field name="EcoRegion" type="UINT32" />
-			</AttributeBlock>
-			<AttributeBlock name="PotentialNaturalVegetation" guid="{09409810-AD40-48DE-A209-DB1CB10601F7}">
-				<Field name="NaturalVeg" type="UINT32" />
-			</AttributeBlock>
 			<AttributeBlock name="IsAirportInternational" guid="{F8A7B13F-BD91-48F8-AC66-6C8601A2F1C6}">
 				<Field name="Intrntionl" type="UINT8" />
 			</AttributeBlock>
-			<AttributeBlock name="IsArtificialSurface" guid="{C4EC4055-3177-4757-82FB-44038B244BA9}">
-				<Field name="Artificial" type="UINT8" />
-			</AttributeBlock>
 			<AttributeBlock name="TreeBrightnessFactor" guid="{63040596-0B21-48FD-8B5F-A9E84A5B7BC9}">
 				<Field name="Brightness" type="UINT32" />
+			</AttributeBlock>
+			<AttributeBlock name="BiomeName" guid="{E5FA1B20-BB2F-40D5-913B-480C547CC9B8}">
+				<Field name="BiomeName" type="STRING" />
 			</AttributeBlock>
 		</AttributeSet>
 	</FlightSim>
