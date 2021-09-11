@@ -38,6 +38,10 @@ ZBAD (Beijing Daxing) airport scenary mod for Flight Simulator 2020
 
 滑行道中线灯全部设置为启用，滑行道和停机坪边界均设置灯光。部分停机坪区域设置照明灯。
 
+### 建筑
+
+参照卫星图添加若干机场建筑，均使用FS默认包中的建筑（机库）。
+
 ### 其他
 
 上述未提及部分暂未建设/完善。
@@ -60,13 +64,8 @@ Community文件夹通常位于：
 
 ## 开发说明
 
-此项目使用ADE开发。请下载最新版本的ADE软件，并使用该软件打开项目并进行编辑开发。
-
-ADE由FSDeveloper社区开发，参见 https://www.fsdeveloper.com/forum/forums/airport-design-editor-for-msfs-2020.160/
+此项目使用FS SDK直接开发。请打开FS的开发者模式并直接打开项目，加载至大兴机场，在编辑器中打开机场即可编辑。
 
 ### 注意事项
 
-- 勿开启 Two Way Edit
-- 请在FS2020中打开并build项目，直接使用ADEbuild的结果可能会有问题（至少我发现会导致廊桥不能正确连接）
 - 需要安装并启用Git lfs插件，参见 https://git-lfs.github.com/
-- 使用ADE编辑完保存项目之后，在FS中打开项目或Build之前，需要执行一次pre-build.sh脚本，以解决PaintedLine材质问题（ADE不支持使用空材质）
